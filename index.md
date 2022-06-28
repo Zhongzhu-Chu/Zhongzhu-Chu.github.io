@@ -44,11 +44,11 @@ Outstanding Postgraduates in USTB (2021.09)
 
 First-Class Scholarship in USTB (2021.09)
 
-**Meritorious Winner, American College Students' Mathematical Modeling Contest** (2018.04)
+**Meritorious Winner of American College Students' Mathematical Modeling Contest** (2018.04)
 
 Excellent Student in UCASS (2017.12)
 
-**The First Prize in Beijing, Contemporary Undergraduate Mathematical Contest in Modeling** (2012.10)
+**The First Prize in Beijing of Contemporary Undergraduate Mathematical Contest in Modeling** (2012.10)
 
 ---
 #### SERVICES
