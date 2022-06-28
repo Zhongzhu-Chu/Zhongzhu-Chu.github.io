@@ -34,6 +34,23 @@ Advisor: Prof. [Jingbao Huang](https://se.ucass.edu.cn/info/1098/1988.htm)
 GPA: 87.1/100
 
 ---
+#### HONORS & AWARDS
+
+**Outstanding graduates of Beijing ordinary colleges and Universities** (2022.06)
+
+**Outstanding Master's Thesis of USTB** (2022.06)
+
+Outstanding Postgraduates in USTB (2021.09)
+
+First-Class Scholarship in USTB (2021.09)
+
+**Meritorious Winner, American College Students' Mathematical Modeling Contest** (2018.04)
+
+Excellent Student in UCASS (2017.12)
+
+**The First Prize in Beijing, Contemporary Undergraduate Mathematical Contest in Modeling** (2012.10)
+
+---
 #### SERVICES
 
 Reviewer for Environmental Science and Pollution Research, Journal of Cleaner Production, Applied Water Science and The Sixth International Conference on Economic and Business Management.
@@ -63,16 +80,20 @@ Gu, W., **Chu, Z.**, & Wang, C. (2020).
 ---
 #### RESEARCH EXPERIENCES
 
-*2019.09-2021.12* Core Member of National Project of National Natural Science Foundation of China
+*2019.09-2021.12* Core Member of **National Project of National Natural Science Foundation of China**
+
 Research on the influence mechanism, implementation path and strategy of municipal solid waste energy conversion based on residents' behavior  
+
 Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/index.htm)
 
-*2019.09-2021.12* Core Member of Provincial Project of Beijing Social Science Fund
+*2019.09-2021.12* Core Member of **Provincial Project of Beijing Social Science Fund**
+
 Research on the Management Modes of Municipal Solid Waste Under the Circumstances of Sustainable Development
+
 Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/index.htm)
 
 ---
 #### RESEARCH EXPERIENCES
-Singer (since 3-year-old) | Led the Art Troupe and won the Gold Award (twice) and Silver Award (twice) of the Beijing University Music Festival in 2016 and 2018; Silver Medal Winner of the campus singer competition of USTB.
+Singer (since 3-year-old) | Led the Art Troupe and won the **Gold Award (twice)** and **Silver Award (twice)** of the **Beijing University Music Festival** in 2016 and 2018; **Silver Medal Winner** of the campus singer competition of USTB.
 
 Professional Skills | Stata, R, SPSS, ArcGis, Geoda, Python, Matlab, Origin, etc.
