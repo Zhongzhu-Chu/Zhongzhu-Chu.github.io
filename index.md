@@ -36,7 +36,7 @@ GPA: 87.1/100
 ---
 #### SERVICES
 
-Reviewer for Environmental Science and Pollution Research, Journal of Cleaner Production and Applied Water Science.
+Reviewer for Environmental Science and Pollution Research, Journal of Cleaner Production, Applied Water Science and The Sixth International Conference on Economic and Business Management.
 
 ---
 #### WORKING PAPERS
@@ -59,3 +59,20 @@ Wang, C., **Chu, Z.**, & Gu, W. (2021).
 Gu, W., **Chu, Z.**, & Wang, C. (2020).  
 [How do different types of energy technological progress affect regional carbon intensity? A spatial panel approach.](https://link.springer.com/article/10.1007/s11356-020-10327-9)  
 [Environmental Science and Pollution Research](https://www.springer.com/journal/11356/), 27(35), 44494-44509.
+
+---
+#### RESEARCH EXPERIENCES
+
+*2019.09-2021.12* Core Member of National Project of National Natural Science Foundation of China
+Research on the influence mechanism, implementation path and strategy of municipal solid waste energy conversion based on residents' behavior  
+Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/index.htm)
+
+*2019.09-2021.12* Core Member of Provincial Project of Beijing Social Science Fund
+Research on the Management Modes of Municipal Solid Waste Under the Circumstances of Sustainable Development
+Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/index.htm)
+
+---
+#### RESEARCH EXPERIENCES
+Singer (since 3-year-old) | Led the Art Troupe and won the Gold Award (twice) and Silver Award (twice) of the Beijing University Music Festival in 2016 and 2018; Silver Medal Winner of the campus singer competition of USTB.
+
+Professional Skills | Stata, R, SPSS, ArcGis, Geoda, Python, Matlab, Origin, etc.
