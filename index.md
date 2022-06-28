@@ -81,15 +81,11 @@ Gu, W., **Chu, Z.**, & Wang, C. (2020).
 #### RESEARCH EXPERIENCES
 
 *2019.09-2021.12* Core Member of **National Project of National Natural Science Foundation of China**
-
 Research on the influence mechanism, implementation path and strategy of municipal solid waste energy conversion based on residents' behavior  
-
 Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/index.htm)
 
 *2019.09-2021.12* Core Member of **Provincial Project of Beijing Social Science Fund**
-
 Research on the Management Modes of Municipal Solid Waste Under the Circumstances of Sustainable Development
-
 Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/index.htm)
 
 ---
