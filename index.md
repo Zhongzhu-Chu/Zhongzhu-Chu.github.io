@@ -85,7 +85,7 @@ Research on the influence mechanism, implementation path and strategy of municip
 Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/index.htm)
 
 *2019.09-2021.12* Core Member of **Provincial Project of Beijing Social Science Fund**
-Research on the Management Modes of Municipal Solid Waste Under the Circumstances of Sustainable Development
+Research on the Management Modes of Municipal Solid Waste Under the Circumstances of Sustainable Development  
 Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/index.htm)
 
 ---
