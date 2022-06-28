@@ -11,8 +11,9 @@ Email: <chuzhongzhu@126.com>
 ---
 #### WHO AM I
 
-I am Zhongzhu Chu, a Ph.D. Student in School of International and Public Affairs at Shanghai Jiao Tong University. I am working with professor Jiannan Wu as my advisor. My research interest lies in systems and software security in general. In particular, I am recently focusing on security in Autonomous Cyber-Physical Systems (CPS) such as drones and self-driving cars. My research aims to build secure and reliable autonomous CPS by bridging the gap between the cyber and physical domains. I have recently proposed holistic security solutions for vehicular CPS, including physical attack detection, sensor attack recovery, CP-inconsistency vulnerability identification in control programs, and CPS forensics.  
-Before joining Purdue, I received an M.S. and a B.S. from Pohang University of Science and Technology (Postech) (advised by professor Jong Kim and professor emeritus SungJe Hong) and Kyungbook National University (KNU). I also worked as a staff software engineer in Korea Software Solutions Lab (KSSL) and Ubiquitous Computing Lab (UCL) at IBM.
+I am Zhongzhu Chu, a Ph.D. Student in School of International and Public Affairs at Shanghai Jiao Tong University. During my PhD, I was supervised by Professor Wu Jiannan. My research interests mainly focus on environmental economics, environmental policy, and the digital transformation of urban governance. I have recently focused particularly on public participation in the digital transformation of urban governance and routing planning in integrated transport scenarios.
+
+Before joining SJTU, I received my B.S. and M.S. degrees from University of Chinese Academy of Social Sciences (UCASS) (supervised by Prof. Jingbao Huang) and University of Science and Technology Beijing (USTB) (supervised by Prof. Wei Gu). I have also published and served as a reviewer for several internationally recognized journals.
 
 ---
 #### RESEARCH INTERESTS
@@ -22,12 +23,14 @@ Before joining Purdue, I received an M.S. and a B.S. from Pohang University of S
 ---
 #### EDUCATION BACKGROUND
 
-*2019.09-2022.06* M.A. in Business Management  
-[University of Science and Technology Beijing](https://en.ustb.edu.cn/), Beijing, China.   
+*2019.09-2022.06* M.A. in Business Management
+[University of Science and Technology Beijing (USTB)](https://en.ustb.edu.cn/), Beijing, China.   
 Advisor: Prof. [Wei Gu](https://sem.ustb.edu.cn/szll/szdw/xk/gsglxa/gwa/index.htm)
+GPA: 87.5/100
 
-*2015.09-2019.06* B.A. in Economics  
+*2015.09-2019.06* B.A. in Economics
 [University of Chinese Academy of Social Sciences (UCASS)](https://www.ucass.edu.cn/), Beijing, China.  
+Advisor: Prof. [Jingbao Huang](https://se.ucass.edu.cn/info/1098/1988.htm)
 GPA: 87.1/100
 
 ---
