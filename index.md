@@ -61,7 +61,7 @@ Gu, W., **Chu, Z.**,& Li, X.(2022).
 The spillover effects of the natural and cultural environment on tourism demand in China, submitted to [Tourism Economics](https://journals.sagepub.com/home/teu) (SSCI, JCR Q1), under 1st review.
 
 Yang, T., **Chu, Z.**, & Wang, B.
-Is the integration of passenger and freight transportation in rural areas feasible? A new green vehicle routing problem, submitted to Elsevier (SSCI/SCI, JCR Q1, ABS 3*).
+Is the integration of passenger and freight transportation in rural areas feasible? A new green vehicle routing problem, submitted to Elsevier (SSCI/SCI, JCR Q1).
 
 ---
 #### SELECTED PUBLICATIONS
