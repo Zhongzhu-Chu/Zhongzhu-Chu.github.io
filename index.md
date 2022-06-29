@@ -58,7 +58,7 @@ Reviewer for Environmental Science and Pollution Research, Journal of Cleaner Pr
 ---
 #### WORKING PAPERS
 Gu, W., **Chu, Z.**,& Li, X.(2022).
-The spillover effects of the natural and cultural environment on tourism demand in China, submitted to [Tourism Economics](https://journals.sagepub.com/home/teu), under 1st review.
+The spillover effects of the natural and cultural environment on tourism demand in China, submitted to [Tourism Economics](https://journals.sagepub.com/home/teu)(SSCI, JCR Q1), under 1st review.
 
 Yang, T., **Chu, Z.**, & Wang, B.
 Is the integration of passenger and freight transportation in rural areas feasible? A new green vehicle routing problem, submitted to Elsevier.
@@ -67,15 +67,15 @@ Is the integration of passenger and freight transportation in rural areas feasib
 #### SELECTED PUBLICATIONS
 Wang, C., **Chu, Z.**, & Gu, W. (2021).  
 [Assessing the role of public attention in China's wastewater treatment: A spatial perspective.](https://www.sciencedirect.com/science/article/pii/S0040162521004169)  
-[Technological Forecasting and Social Change](https://www.sciencedirect.com/journal/technological-forecasting-and-social-change), 171, 120984.
+[Technological Forecasting and Social Change](https://www.sciencedirect.com/journal/technological-forecasting-and-social-change)(SSCI, JCR Q1, ABS 3*), 171, 120984.
 
 Wang, C., **Chu, Z.**, & Gu, W. (2021).   
 [Participate or not: Impact of information intervention on residents’ willingness of sorting municipal solid waste.](https://www.sciencedirect.com/science/article/pii/S0959652621027967)  
-[Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production), 318, 128591.
+[Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production)(SCI, JCR Q1), 318, 128591.
 
 Gu, W., **Chu, Z.**, & Wang, C. (2020).  
 [How do different types of energy technological progress affect regional carbon intensity? A spatial panel approach.](https://link.springer.com/article/10.1007/s11356-020-10327-9)  
-[Environmental Science and Pollution Research](https://www.springer.com/journal/11356/), 27(35), 44494-44509.
+[Environmental Science and Pollution Research](https://www.springer.com/journal/11356/)(SCI, JCR Q2), 27(35), 44494-44509.
 
 ---
 #### RESEARCH EXPERIENCES
@@ -90,6 +90,6 @@ Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/i
 
 ---
 #### RESEARCH EXPERIENCES
-Singer (since 3-year-old) | Led the Art Troupe and won the **Gold Award (twice)** and **Silver Award (twice)** of the **Beijing University Music Festival** in 2016 and 2018; **Silver Medal Winner** of the campus singer competition of USTB.
+Singer (since 3-year-old) | Led the Art Troupe and won the **Gold Award (twice)** and **Silver Award (twice)** of the **Beijing University Music Festival** in 2016 and 2018; **Silver Medal Winner** of the campus singer competition of USTB.  
 
 Professional Skills | Stata, R, SPSS, ArcGis, Geoda, Python, Matlab, Origin, etc.
