@@ -23,14 +23,14 @@ Before joining SJTU, I received my B.S. and M.S. degrees from University of Chin
 ---
 #### EDUCATION BACKGROUND
 
-*2019.09-2022.06* M.A. in Business Management
+*2019.09-2022.06* M.A. in Business Management  
 [University of Science and Technology Beijing (USTB)](https://en.ustb.edu.cn/), Beijing, China.   
-Advisor: Prof. [Wei Gu](https://sem.ustb.edu.cn/szll/szdw/xk/gsglxa/gwa/index.htm)
+Advisor: Prof. [Wei Gu](https://sem.ustb.edu.cn/szll/szdw/xk/gsglxa/gwa/index.htm)  
 GPA: 87.5/100
 
-*2015.09-2019.06* B.A. in Economics
+*2015.09-2019.06* B.A. in Economics  
 [University of Chinese Academy of Social Sciences (UCASS)](https://www.ucass.edu.cn/), Beijing, China.  
-Advisor: Prof. [Jingbao Huang](https://se.ucass.edu.cn/info/1098/1988.htm)
+Advisor: Prof. [Jingbao Huang](https://se.ucass.edu.cn/info/1098/1988.htm)  
 GPA: 87.1/100
 
 ---
