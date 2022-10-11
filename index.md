@@ -57,10 +57,16 @@ Reviewer for Environmental Science and Pollution Research, Journal of Cleaner Pr
 
 ---
 #### WORKING PAPERS
-Gu, W., **Chu, Z.**,& Li, X.(2022).
-The spillover effects of the natural and cultural environment on tourism demand in China, submitted to [Tourism Economics](https://journals.sagepub.com/home/teu) (SSCI, JCR Q1), under 1st review.
+**Chu, Z.**, Yang, T.
+Multi-subject XXX: How can the public, XXX and government combat air pollution?, submitted to Elsevier (SSCI/SCI, JCR Q1).
 
-Yang, T., **Chu, Z.**, & Wang, B.
+**Chu, Z.**, Yang, T.
+The rational choice of migrant workers' hukou transfer in China: Based on the XXX model, submitted to Emerald (SCI, JCR Q3).
+
+Gu, W., **Chu, Z.**,& Li, X.(2022).
+The spillover effects of the natural and cultural environment on tourism demand in China, submitted to Wiley (SSCI/SCI, JCR Q1).
+
+Yang, T., **Chu, Z.**, & Wang, B.(2022)
 Is the integration of passenger and freight transportation in rural areas feasible? A new green vehicle routing problem, submitted to Elsevier (SSCI/SCI, JCR Q1).
 
 ---
