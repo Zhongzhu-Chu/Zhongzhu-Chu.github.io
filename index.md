@@ -1,4 +1,4 @@
-<img align="left" src="./海边.JPG" width = '135' height ='135'>
+<img align="left" src="./海边.jpg" width = '135' height ='135'>
 
 **Zhongzhu Chu (楚中柱)**  
 Ph.D. Student  
