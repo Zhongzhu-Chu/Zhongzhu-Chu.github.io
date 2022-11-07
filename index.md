@@ -34,23 +34,6 @@ Advisor: Prof. [Jingbao Huang](https://se.ucass.edu.cn/info/1098/1988.htm)
 GPA: 87.1/100
 
 ---
-#### HONORS & AWARDS
-
-**Outstanding graduates of Beijing ordinary colleges and Universities** (2022.06)
-
-**Outstanding Master's Thesis of USTB** (2022.06)
-
-Outstanding Postgraduates in USTB (2021.09)
-
-First-Class Scholarship in USTB (2021.09)
-
-**Meritorious Winner of American College Students' Mathematical Modeling Contest** (2018.04)
-
-Excellent Student in UCASS (2017.12)
-
-**The First Prize in Beijing of Contemporary Undergraduate Mathematical Contest in Modeling** (2012.10)
-
----
 #### SERVICES
 
 Reviewer for Environmental Science and Pollution Research, Journal of Cleaner Production, Applied Water Science and The Sixth International Conference on Economic and Business Management.
@@ -93,3 +76,16 @@ Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/i
 *2019.09-2021.12* Core Member of **Provincial Project of Beijing Social Science Fund**  
 Research on the Management Modes of Municipal Solid Waste Under the Circumstances of Sustainable Development  
 Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/index.htm)
+
+---
+#### HONORS & AWARDS
+
+**Outstanding graduates of Beijing ordinary colleges and Universities** (2022.06)
+
+**Outstanding Master's Thesis of USTB** (2022.06)
+
+Outstanding Postgraduates in USTB (2021.09)
+
+**Meritorious Winner of American College Students' Mathematical Modeling Contest** (2018.04)
+
+**The First Prize in Beijing of Contemporary Undergraduate Mathematical Contest in Modeling** (2012.10)
