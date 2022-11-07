@@ -11,9 +11,9 @@ Email: <chuzhongzhu@126.com>; <Zhongzhu_Chu@sjtu.edu.cn>
 ---
 #### WHO AM I
 
-I am Zhongzhu Chu, a Ph.D. Student in School of International and Public Affairs at Shanghai Jiao Tong University. During my PhD, I was supervised by Professor Jiannan Wu. My research interests mainly focus on environmental economics, environmental policy, and the digital transformation of urban governance. I have recently focused particularly on public participation in the digital transformation of urban governance and routing planning in integrated transport scenarios.
+I am Zhongzhu Chu, a Ph.D. Student in School of International and Public Affairs at Shanghai Jiao Tong University. My research interests mainly focus on environmental economics, environmental policy, and the digital transformation of urban governance. I have recently focused particularly on public participation in the digital transformation of urban governance and routing planning in integrated transport scenarios.
 
-Before joining SJTU, I received my B.S. and M.S. degrees from University of Chinese Academy of Social Sciences (UCASS) (supervised by Prof. Jingbao Huang) and University of Science and Technology Beijing (USTB) (supervised by Prof. Wei Gu). I have also published and served as a reviewer for several internationally recognized journals.
+Before joining SJTU, I received my B.S. and M.S. degrees from University of Chinese Academy of Social Sciences (UCASS) and University of Science and Technology Beijing (USTB). I have also published and served as a reviewer for several internationally recognized journals.
 
 ---
 #### RESEARCH INTERESTS
@@ -93,9 +93,3 @@ Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/i
 *2019.09-2021.12* Core Member of **Provincial Project of Beijing Social Science Fund**  
 Research on the Management Modes of Municipal Solid Waste Under the Circumstances of Sustainable Development  
 Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/index.htm)
-
----
-#### RESEARCH EXPERIENCES
-Singer (since 3-year-old) | Led the Art Troupe and won the **Gold Award (twice)** and **Silver Award (twice)** of the **Beijing University Music Festival** in 2016 and 2018; **Silver Medal Winner** of the campus singer competition of USTB.  
-
-Professional Skills | Stata, R, SPSS, ArcGis, Geoda, Python, Matlab, Origin, etc.
