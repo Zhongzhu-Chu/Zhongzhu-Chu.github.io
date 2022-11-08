@@ -88,4 +88,4 @@ Outstanding Postgraduates in USTB (2021.09)
 
 **Meritorious Winner of American College Students' Mathematical Modeling Contest** (2018.04)
 
-**The First Prize in Beijing of Contemporary Undergraduate Mathematical Contest in Modeling** (2012.10)
+**The First Prize in Beijing of Contemporary Undergraduate Mathematical Contest in Modeling** (2017.10)
