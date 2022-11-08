@@ -11,7 +11,7 @@ Email: <chuzhongzhu@126.com>; <Zhongzhu_Chu@sjtu.edu.cn>
 ---
 #### WHO AM I
 
-I am Zhongzhu Chu, a Ph.D. Student in School of International and Public Affairs at Shanghai Jiao Tong University. My research interests mainly focus on environmental economics, environmental policy, and the digital transformation of urban governance. I have recently focused particularly on public participation in the digital transformation of urban governance and routing planning in integrated transport scenarios.
+I am Zhongzhu Chu, a Ph.D. Student in School of International and Public Affairs at Shanghai Jiao Tong University. My research interests mainly focus on environmental economics, environmental policy, and the digital transformation of urban governance.
 
 Before joining SJTU, I received my B.S. and M.S. degrees from University of Chinese Academy of Social Sciences (UCASS) and University of Science and Technology Beijing (USTB). I have also published and served as a reviewer for several internationally recognized journals.
 
