@@ -6,7 +6,7 @@ School of International and Public Affairs
 Shanghai Jiao Tong University
 
 
-Email: <chuzhongzhu@126.com>; <Zhongzhu_Chu@sjtu.edu.cn>
+Email: <chuzhongzhu@126.com>; <zhongzhu_chu@sjtu.edu.cn>
 
 ---
 #### WHO AM I
