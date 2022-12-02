@@ -44,7 +44,7 @@ Reviewer for Environmental Science and Pollution Research, Journal of Cleaner Pr
 Multi-subject XXX: How can the public, XXX and government combat air pollution?, submitted to Elsevier (SSCI/SCI, JCR Q1).
 
 **Chu, Z.**, Yang, T.(2022).
-The rational choice of migrant workers' hukou transfer in China: Based on the XXX model, submitted to Emerald (SCI, JCR Q3).
+The rational choice of migrant workers' hukou transfer in China: Based on the XXX model, submitted to Taylor (SSCI, JCR Q2).
 
 Gu, W., **Chu, Z.**,& Li, X.(2022).
 The spillover effects of the natural and cultural environment on tourism demand in China, submitted to Wiley (SSCI/SCI, JCR Q1).
