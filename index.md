@@ -46,16 +46,16 @@ How can public concern improve regional green innovation performance? Evidence f
 **Chu, Z.**, Yang, T.(2023).
 Can AI technology achieve coordinated emission reduction? Evidence from China.
 
-**Chu, Z.**, Yang, T*.(2023).
+**Chu, Z.**, Yang, T *.(2023).
 Multi-subject XXX: How can the public, XXX and government combat air pollution?.
 
-**Chu, Z.**, Chen, X*.(2023).
+**Chu, Z.**, Chen, X *.(2023).
 The rational choice of migrant workers' hukou transfer in China: Based on the XXX.
 
-Gu, W., **Chu, Z.**,& Li, X*.(2022).
+Gu, W., **Chu, Z.**,& Li, X *.(2022).
 The spillover effects of the natural and cultural environment on tourism demand in China.
 
-Yang, T*., **Chu, Z.**, & Wang, B.(2022)
+Yang, T *., **Chu, Z.**, & Wang, B.(2022)
 Is the integration of passenger and freight transportation in rural areas feasible? A new green vehicle routing problem.
 
 ---
