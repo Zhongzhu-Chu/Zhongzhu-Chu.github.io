@@ -40,7 +40,7 @@ Reviewer for Environmental Science and Pollution Research, Journal of Cleaner Pr
 
 ---
 #### WORKING PAPERS
-Chen, Y., **Chu, Z* .**.(2023).
+Chen, Y., **\Chu, Z * .**.(2023).
 How can public concern improve regional green innovation performance? Evidence from China
 
 **Chu, Z.**, Yang, T.(2023).
