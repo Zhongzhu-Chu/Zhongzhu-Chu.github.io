@@ -40,17 +40,20 @@ Reviewer for Environmental Science and Pollution Research, Journal of Cleaner Pr
 
 ---
 #### WORKING PAPERS
-**Chu, Z.**, Yang, T.(2022).
-Multi-subject XXX: How can the public, XXX and government combat air pollution?, submitted to Elsevier (SSCI/SCI, JCR Q1).
+**Chu, Z.**, Yang, T.(2023).
+Can AI technology achieve coordinated emission reduction? Evidence from China.
 
-**Chu, Z.**, Yang, T.(2022).
-The rational choice of migrant workers' hukou transfer in China: Based on the XXX model, submitted to Taylor (SSCI, JCR Q2).
+**Chu, Z.**, Yang, T.(2023).
+Multi-subject XXX: How can the public, XXX and government combat air pollution?.
+
+**Chu, Z.**, Chen, X.(2023).
+The rational choice of migrant workers' hukou transfer in China: Based on the XXX.
 
 Gu, W., **Chu, Z.**,& Li, X.(2022).
-The spillover effects of the natural and cultural environment on tourism demand in China, submitted to Wiley (SSCI/SCI, JCR Q1).
+The spillover effects of the natural and cultural environment on tourism demand in China.
 
 Yang, T., **Chu, Z.**, & Wang, B.(2022)
-Is the integration of passenger and freight transportation in rural areas feasible? A new green vehicle routing problem, submitted to Elsevier (SSCI/SCI, JCR Q1).
+Is the integration of passenger and freight transportation in rural areas feasible? A new green vehicle routing problem.
 
 ---
 #### SELECTED PUBLICATIONS
@@ -80,12 +83,10 @@ Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/i
 ---
 #### HONORS & AWARDS
 
-**Outstanding graduates of Beijing ordinary colleges and Universities** (2022.06)
+Outstanding graduates of Beijing ordinary colleges and Universities (2022.06)
 
-**Outstanding Master's Thesis of USTB** (2022.06)
+Outstanding Master's Thesis of USTB (2022.06)
 
-Outstanding Postgraduates in USTB (2021.09)
+Meritorious Winner of American College Students' Mathematical Modeling Contest (2018.04)
 
-**Meritorious Winner of American College Students' Mathematical Modeling Contest** (2018.04)
-
-**The First Prize in Beijing of Contemporary Undergraduate Mathematical Contest in Modeling** (2017.10)
+The First Prize in Beijing of Contemporary Undergraduate Mathematical Contest in Modeling (2017.10)
