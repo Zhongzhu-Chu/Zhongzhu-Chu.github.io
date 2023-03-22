@@ -43,10 +43,10 @@ Reviewer for Environmental Science and Pollution Research, Journal of Cleaner Pr
 Chen, Y., **Chu, Z * .**
 How can public concern improve regional green innovation performance? Evidence from China
 
-**Chu, Z.**, Yang, T.
+**Chu, Z.**, Yang, T., & Chen, Z*.
 Can AI technology achieve coordinated emission reduction? Evidence from China.
 
-**Chu, Z.**, Yang, T *.
+**Chu, Z * .**, Yang, T.
 Multi-subject XXX: How can the public, XXX and government combat air pollution?.
 
 **Chu, Z.**, Chen, X *.
