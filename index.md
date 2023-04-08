@@ -56,7 +56,7 @@ Multi-subject XXX: How can the public, XXX and government combat air pollution?.
 The spillover effects of the natural and cultural environment on tourism demand in China. (2022/09)
 
 [6]. Yang, T *., **Chu, Z.**, & Wang, B.
-Is the integration of passenger and freight transportation in rural areas feasible? A new green vehicle routing problem. (2022/06)
+Is the integration of passenger and freight transportation in rural areas feasible? A new green vehicle routing problem. (2022/05)
 
 ---
 #### SELECTED PUBLICATIONS
