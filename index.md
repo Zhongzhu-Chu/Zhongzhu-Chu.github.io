@@ -40,22 +40,22 @@ Reviewer for Environmental Science and Pollution Research, Journal of Cleaner Pr
 
 ---
 #### WORKING PAPERS
-Chen, Y.,  Hu, J., **Chu, Z * .**
+[1]. Chen, Y.,  Hu, J., **Chu, Z * .**
 How can public attention improve regional green innovation performance? From a spatial perspective. (2023/04)
 
-**Chu, Z.**, Yang, T., & Chen, Z*.
+[2]. **Chu, Z.**, Yang, T., & Chen, Z*.
 How can artificial intelligence technology achieve pollution and carbon reduction? Evidence from China. (2023/04)
 
-**Chu, Z * .**, Yang, T.
-Multi-subject XXX: How can the public, XXX and government combat air pollution?.  (2022/11)
-
-**Chu, Z.**, Chen, X *.
+[3]. **Chu, Z.**, Chen, X *.
 Migration or not? Impact of individual and urban factors on migrant workers' willingness of household registration transfer. (2022/12)
 
-Gu, W., **Chu, Z.**,& Li, X *.
+[4]. **Chu, Z * .**, Yang, T.
+Multi-subject XXX: How can the public, XXX and government combat air pollution?.  (2022/11)
+
+[5]. Gu, W., **Chu, Z.**,& Li, X *.
 The spillover effects of the natural and cultural environment on tourism demand in China. (2022/09)
 
-Yang, T *., **Chu, Z.**, & Wang, B.
+[6]. Yang, T *., **Chu, Z.**, & Wang, B.
 Is the integration of passenger and freight transportation in rural areas feasible? A new green vehicle routing problem. (2022/06)
 
 ---
