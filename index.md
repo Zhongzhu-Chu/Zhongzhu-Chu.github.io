@@ -18,7 +18,7 @@ Before joining SJTU, I received my B.S. and M.S. degrees from University of Chin
 ---
 #### RESEARCH INTERESTS
 
-**Quantitative Social Research** in **Public Policy, Urban Governance, Transportation Economics** and **Environmental Economics**
+**Quantitative Social Research** in **Public Policy, Urban Governance, Innovation Performance, Transportation Economics** and **Environmental Economics and Policy**
   
 ---
 #### EDUCATION BACKGROUND
@@ -36,7 +36,7 @@ GPA: 87.1/100
 ---
 #### SERVICES
 
-Reviewer for Technological Forecasting & Social Change, Technovation, Journal of Cleaner Production, Environmental Science and Pollution Research, Environment, Development and Sustainability, Applied Water Science and The Sixth International Conference on Economic and Business Management.
+Reviewer for *Technological Forecasting & Social Change*, *Technovation*, *Journal of Cleaner Production*, *Environmental Science and Pollution Research*, *Environment, Development and Sustainability*, *Applied Water Science* and *The Sixth International Conference on Economic and Business Management*.
 
 ---
 #### WORKING PAPERS
