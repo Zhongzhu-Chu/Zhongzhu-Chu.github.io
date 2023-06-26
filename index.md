@@ -36,7 +36,7 @@ GPA: 87.1/100
 ---
 #### SERVICES
 
-Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***, ***Journal of Cleaner Production***, ***Environmental Science and Pollution Research***, ***Environment, Development and Sustainability***, ***Applied Water Science*** and ***The Sixth International Conference on Economic and Business Management***.
+Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***, ***Journal of Cleaner Production***, ***Environmental Science and Pollution Research***, ***Environment, Development and Sustainability***, ***Applied Water Science*** ***Green and Low-Carbon Economy*** and ***The Sixth International Conference on Economic and Business Management***.
 
 ---
 #### WORKING PAPERS
@@ -46,10 +46,13 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 [2]. **Chu, Z.**, Chen, Z*.
 *How can artificial intelligence technology achieve pollution and carbon reduction? Evidence from China*. (2023/04)
 
-[3]. **Chu, Z * .**, Yang, T.
+[3]. Chen, Z., **Chu, Z * .**
+*The Education-Selective Effect of Local Government Attention on Talents: Evidence Based on Provincial Panel Data*. (2023/01)
+
+[4]. **Chu, Z * .**, Yang, T.
 *Multi-subject XXX: How can the public, XXX and government combat air pollution?*  (2022/11)
 
-[4]. Gu, W., **Chu, Z.**,& Li, X *.
+[5]. Gu, W., **Chu, Z.**,& Li, X *.
 *The spillover effects of the natural and cultural environment on tourism demand in China*. (2022/09)
 
 ---
