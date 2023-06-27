@@ -63,7 +63,7 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 
 
 Yang, T., **Chu, Z.**, & Wang, B. (2023).  
-[Feasibility on the integration of passenger and freight transportation in rural areas: A service mode and an optimization model.]  
+[Feasibility on the integration of passenger and freight transportation in rural areas: A service mode and an optimization model.](https://www.sciencedirect.com/science/article/pii/S0038012123001775#coi1)  
 [Socio-Economic Planning Sciences](https://www.sciencedirect.com/journal/socio-economic-planning-sciences) (SSCI, JCR Q1).
 
 Wu, Z., Xu, M., & **Chu, Z.** (2023).  
