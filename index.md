@@ -40,20 +40,20 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 
 ---
 #### WORKING PAPERS
-[1]. Chen, Y.,  Hu, J., **Chu, Z * .** (Corresponding author)
-*How can public attention improve regional green innovation performance? From a spatial perspective*. (2023/04)
+[1]. Chen, Y.,  Hu, J., **Chu, Z * .** 
+*How can public attention improve regional green innovation performance? From a spatial perspective*. (2023/04) (Corresponding author)
 
 [2]. **Chu, Z.**, Chen, Z*.
 *How can artificial intelligence technology achieve pollution and carbon reduction? Evidence from China*. (2023/04)
 
-[3]. Chen, Z., **Chu, Z * .** (Corresponding author)
-*The Education-Selective Effect of Local Government Attention on Talents: Evidence Based on Provincial Panel Data*. (2023/01)
+[3]. Chen, Z., **Chu, Z * .** 
+*The Education-Selective Effect of Local Government Attention on Talents: Evidence Based on Provincial Panel Data*. (2023/01) (Corresponding author)
 
 [4]. **Chu, Z * .**, Yang, T.
 *Multi-subject XXX: How can the public, XXX and government combat air pollution?*  (2022/11)
 
-[5]. Gu, W., **Chu, Z.**,& Li, X *. (The instructor is the first author)
-*The spillover effects of the natural and cultural environment on tourism demand in China*. (2022/09)
+[5]. Gu, W., **Chu, Z.**,& Li, X *. 
+*The spillover effects of the natural and cultural environment on tourism demand in China*. (2022/09) (The instructor is the first author)
 
 ---
 #### SELECTED PUBLICATIONS
@@ -70,17 +70,17 @@ Wu, Z., Xu, M*., & **Chu, Z.** (2023).
 [Evolution, characteristics, and prospects of mountain flash flood disaster prevention and control policies in China.](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJutOehf2D0XouCH-lhM6pGz4Mq31LwbJBB4cIPUKKo_3gEcpU9zYjCK-rCtGBkg28a&uniplatform=NZKPT)  
 [Resources Science](http://www.resci.cn/CN/1007-7588/home.shtml) (CSSCI, FMS T2).
 
-Wang, C., **Chu, Z.**, & Gu, W*. (2021). (The instructor is the first author) 
+Wang, C., **Chu, Z.**, & Gu, W*. (2021).
 [Assessing the role of public attention in China's wastewater treatment: A spatial perspective.](https://www.sciencedirect.com/science/article/pii/S0040162521004169)  
-[Technological Forecasting and Social Change](https://www.sciencedirect.com/journal/technological-forecasting-and-social-change) (SSCI, JCR Q1, ABS 3*), 171, 120984.
+[Technological Forecasting and Social Change](https://www.sciencedirect.com/journal/technological-forecasting-and-social-change) (SSCI, JCR Q1, ABS 3*), 171, 120984. (The instructor is the first author) 
 
-Wang, C., **Chu, Z.**, & Gu, W*. (2021). (The instructor is the first author)  
+Wang, C., **Chu, Z.**, & Gu, W*. (2021). 
 [Participate or not: Impact of information intervention on residents’ willingness of sorting municipal solid waste.](https://www.sciencedirect.com/science/article/pii/S0959652621027967)  
-[Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production) (SCI, JCR Q1), 318, 128591.
+[Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production) (SCI, JCR Q1), 318, 128591. (The instructor is the first author) 
 
-Gu, W., **Chu, Z.**, & Wang, C*. (2020). (The instructor is the first author)
+Gu, W., **Chu, Z.**, & Wang, C*. (2020).
 [How do different types of energy technological progress affect regional carbon intensity? A spatial panel approach.](https://link.springer.com/article/10.1007/s11356-020-10327-9)  
-[Environmental Science and Pollution Research](https://www.springer.com/journal/11356/) (SCI, JCR Q2), 27(35), 44494-44509.
+[Environmental Science and Pollution Research](https://www.springer.com/journal/11356/) (SCI, JCR Q2), 27(35), 44494-44509. (The instructor is the first author) 
 
 ---
 #### RESEARCH EXPERIENCES
