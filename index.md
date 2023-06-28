@@ -40,20 +40,23 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 
 ---
 #### WORKING PAPERS
-[1]. Chen, Y.,  Hu, J., **Chu, Z * .** 
-*How can public attention improve regional green innovation performance? From a spatial perspective*. (2023/04) (Corresponding author)
+[1]. Chen, Y.,  Hu, J., **Chu, Z * .** (2023/04). (Corresponding author).  
+How can public attention improve regional green innovation performance? From a spatial perspective.
 
-[2]. **Chu, Z.**, Chen, Z*.
-*How can artificial intelligence technology achieve pollution and carbon reduction? Evidence from China*. (2023/04)
+[2]. **Chu, Z.**, Chen, Z*. (2023/04).  
+How can artificial intelligence technology achieve pollution and carbon reduction? Evidence from China.
 
-[3]. Chen, Z., **Chu, Z * .** 
-*The Education-Selective Effect of Local Government Attention on Talents: Evidence Based on Provincial Panel Data*. (2023/01) (Corresponding author)
+[3]. Chen, Z., **Chu, Z * .** (2023/01). (Corresponding author).  
+The Education-Selective Effect of Local Government Attention on Talents: Evidence Based on Provincial Panel Data.
 
-[4]. **Chu, Z * .**, Yang, T.
-*Multi-subject XXX: How can the public, XXX and government combat air pollution?*  (2022/11)
+[4]. **Chu, Z * .**, Yang, T. (2022/11).  
+Multi-subject XXX: How can the public, XXX and government combat air pollution?.
 
-[5]. Gu, W., **Chu, Z.**,& Li, X *. 
-*The spillover effects of the natural and cultural environment on tourism demand in China*. (2022/09) (The instructor is the first author)
+[5]. Gu, W., **Chu, Z.**,& Li, X *. (2022/09). (The instructor is the first author).  
+The spillover effects of the natural and cultural environment on tourism demand in China.
+
+[6]. Hu, J., Irfan, M., **Chu, Z.**,& Hu, M *. (2023/04).  
+Has green finance promoted XXX development? Empirical evaluation from the XXX method.
 
 ---
 #### SELECTED PUBLICATIONS
@@ -80,7 +83,7 @@ Wang, C., **Chu, Z.**, & Gu, W*. (2021).
 
 Gu, W., **Chu, Z.**, & Wang, C*. (2020).
 [How do different types of energy technological progress affect regional carbon intensity? A spatial panel approach.](https://link.springer.com/article/10.1007/s11356-020-10327-9)  
-[Environmental Science and Pollution Research](https://www.springer.com/journal/11356/) (SCI, JCR Q2), 27(35), 44494-44509. (The instructor is the first author) 
+[Environmental Science and Pollution Research](https://www.springer.com/journal/11356/) (SCI, JCR Q1), 27(35), 44494-44509. (The instructor is the first author) 
 
 ---
 #### RESEARCH EXPERIENCES
