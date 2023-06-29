@@ -85,17 +85,17 @@ Wang, C., **Chu, Z.**, & Gu, W*. (2021). (The instructor is the first author)
 [Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production) (SCI, JCR Q1, ABS 2*, FMS C), 318, 128591.  
 
 Gu, W., **Chu, Z.**, & Wang, C*. (2020). (The instructor is the first author)  
-[How do different types of energy technological progress affect regional carbon intensity? A spatial panel approach.](https://link.springer.com/article/10.1007/s11356-020-10327-9)  
+[How do different types of energy technological progress affect regional carbon intensity? A spatial panel approach.](https://link.springer.com/article/10.1007/s11356-020-10327-9)  、
 [Environmental Science and Pollution Research](https://www.springer.com/journal/11356/) (SCI, JCR Q1), 27(35), 44494-44509.   
 
 ---
 #### RESEARCH EXPERIENCES
 
-2019.09-2021.12 Core Member of **National Project of National Natural Science Foundation of China**  
+**2019.09-2021.12** Core Member of **National Project of National Natural Science Foundation of China**  
 Research on the influence mechanism, implementation path and strategy of municipal solid waste energy conversion based on residents' behavior  
 Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/index.htm)
 
-2019.09-2021.12 Core Member of **Provincial Project of Beijing Social Science Fund**  
+**2019.09-2021.12** Core Member of **Provincial Project of Beijing Social Science Fund**  
 Research on the Management Modes of Municipal Solid Waste Under the Circumstances of Sustainable Development  
 Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/index.htm)
 
