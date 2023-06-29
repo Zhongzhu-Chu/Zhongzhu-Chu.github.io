@@ -62,15 +62,14 @@ Has green finance promoted XXX development? Empirical evaluation from the XXX me
 The Impact of Government XXX on Industrial XXX Efficiency: Analyse Based on XXX Instruments.
 
 ---
-#### SELECTED PUBLICATIONS
+#### PUBLICATIONS
 **Chu, Z.**, Chen, X*. (2023).  
 Migration or not? Impact of individual and urban factors on migrant workers' willingness of household registration transfer.  
 [Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q3, ABS 1*).  
 
-
 Yang, T*., **Chu, Z.**, and Wang, B. (2023).  
 [Feasibility on the integration of passenger and freight transportation in rural areas: A service mode and an optimization model.](https://www.sciencedirect.com/science/article/pii/S0038012123001775#coi1)  
-[Socio-Economic Planning Sciences](https://www.sciencedirect.com/journal/socio-economic-planning-sciences) (SSCI, JCR Q1, ABS 2*).  
+[Socio-Economic Planning Sciences](https://www.sciencedirect.com/journal/socio-economic-planning-sciences) (SSCI, JCR Q1, *ABS 2**).  
 
 Wu, Z., Xu, M*., and **Chu, Z.** (2023).  
 [Evolution, characteristics, and prospects of mountain flash flood disaster prevention and control policies in China.](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJutOehf2D0XouCH-lhM6pGz4Mq31LwbJBB4cIPUKKo_3gEcpU9zYjCK-rCtGBkg28a&uniplatform=NZKPT)  
