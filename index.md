@@ -43,7 +43,7 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 [1]. Chen, Y.,  Hu, J., and **Chu, Z * .** (2023/04). (Corresponding author).  
 How can public attention improve regional green innovation performance? From a spatial perspective.
 
-[2]. **Chu, Z.**, Chen, Z*. (2023/04).  
+[2]. **Chu, Z.**, Chen, Z* * *. (2023/04).  
 How can artificial intelligence technology achieve pollution and carbon reduction? Evidence from China.
 
 [3]. Chen, Z., **Chu, Z * .** (2023/01). (Corresponding author).  
