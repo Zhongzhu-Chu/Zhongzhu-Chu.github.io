@@ -85,7 +85,7 @@ Wang, C., **Chu, Z.**, and Gu, W*. (2021).
 [Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production) (SCI, JCR Q1, ABS 2*, FMS C), 318, 128591.  
 
 Gu, W., **Chu, Z.**, and Wang, C*. (2020).  
-[How do different types of energy technological progress affect regional carbon intensity? A spatial panel approach.](https://link.springer.com/article/10.1007/s11356-020-10327-9)  、
+[How do different types of energy technological progress affect regional carbon intensity? A spatial panel approach.](https://link.springer.com/article/10.1007/s11356-020-10327-9)  
 [Environmental Science and Pollution Research](https://www.springer.com/journal/11356/) (SCI, JCR Q1), 27(35), 44494-44509.   
 
 ---
