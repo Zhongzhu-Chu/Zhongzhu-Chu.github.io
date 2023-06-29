@@ -65,11 +65,11 @@ The Impact of Government XXX on Industrial XXX Efficiency: Analyse Based on XXX 
 #### PUBLICATIONS
 **Chu, Z.**, Chen, X*. (2023).  
 Migration or not? Impact of individual and urban factors on migrant workers' willingness of household registration transfer.  
-[Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q3, ABS 1*).  
+[Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q3, ABS 1).  
 
 Yang, T*., **Chu, Z.**, and Wang, B. (2023).  
 [Feasibility on the integration of passenger and freight transportation in rural areas: A service mode and an optimization model.](https://www.sciencedirect.com/science/article/pii/S0038012123001775#coi1)  
-[Socio-Economic Planning Sciences](https://www.sciencedirect.com/journal/socio-economic-planning-sciences) (SSCI, JCR Q1, *ABS 2**).  
+[Socio-Economic Planning Sciences](https://www.sciencedirect.com/journal/socio-economic-planning-sciences) (SSCI, JCR Q1, ABS 2).  
 
 Wu, Z., Xu, M*., and **Chu, Z.** (2023).  
 [Evolution, characteristics, and prospects of mountain flash flood disaster prevention and control policies in China.](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJutOehf2D0XouCH-lhM6pGz4Mq31LwbJBB4cIPUKKo_3gEcpU9zYjCK-rCtGBkg28a&uniplatform=NZKPT)  
@@ -77,11 +77,11 @@ Wu, Z., Xu, M*., and **Chu, Z.** (2023).
 
 Wang, C., **Chu, Z.**, and Gu, W*. (2021).  
 [Assessing the role of public attention in China's wastewater treatment: A spatial perspective.](https://www.sciencedirect.com/science/article/pii/S0040162521004169)  
-[Technological Forecasting and Social Change](https://www.sciencedirect.com/journal/technological-forecasting-and-social-change) (SSCI, JCR Q1, ABS 3*, FMS B), 171, 120984.    
+[Technological Forecasting and Social Change](https://www.sciencedirect.com/journal/technological-forecasting-and-social-change) (SSCI, JCR Q1, ABS 3, FMS B), 171, 120984.    
 
 Wang, C., **Chu, Z.**, and Gu, W*. (2021).  
 [Participate or not: Impact of information intervention on residents’ willingness of sorting municipal solid waste.](https://www.sciencedirect.com/science/article/pii/S0959652621027967)  
-[Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production) (SCI, JCR Q1, ABS 2*, FMS C), 318, 128591.  
+[Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production) (SCI, JCR Q1, ABS 2, FMS C), 318, 128591.  
 
 Gu, W., **Chu, Z.**, and Wang, C*. (2020).  
 [How do different types of energy technological progress affect regional carbon intensity? A spatial panel approach.](https://link.springer.com/article/10.1007/s11356-020-10327-9)  
