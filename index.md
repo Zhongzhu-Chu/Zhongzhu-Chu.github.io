@@ -68,7 +68,7 @@ Migration or not? Impact of individual and urban factors on migrant workers' wil
 [Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q3, ABS 1).  
 
 Yang, T*., **Chu, Z.**, and Wang, B. (2023).  
-[Feasibility on the integration of passenger and freight transportation in rural areas: A service mode and an optimization model.](https://www.sciencedirect.com/science/article/pii/S0038012123001775#coi1)  
+[Feasibility on the integration of passenger and freight transportation in rural areas: A service mode and an optimization model.](https://www.sciencedirect.com/science/article/pii/S0038012123001775?dgcid=author)  
 [Socio-Economic Planning Sciences](https://www.sciencedirect.com/journal/socio-economic-planning-sciences) (SSCI, JCR Q1, ABS 2).  
 
 Wu, Z., Xu, M*., and **Chu, Z.** (2023).  
