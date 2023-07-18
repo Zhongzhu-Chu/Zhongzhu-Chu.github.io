@@ -64,7 +64,7 @@ The Impact of Government XXX on Industrial XXX Efficiency: Analyse Based on XXX 
 ---
 #### PUBLICATIONS
 **Chu, Z.**, Chen, X*. (2023).  
-Migration or not? Impact of individual and urban factors on migrant workers' willingness of household registration transfer.  
+[Migration or not? Impact of individual and urban factors on migrant workers' willingness of household registration transfer.](https://www.emerald.com/insight/content/doi/10.1108/K-03-2023-0421/full/html#abstract)   
 [Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q3, ABS 1).  
 
 Yang, T*., **Chu, Z.**, and Wang, B. (2023).  
