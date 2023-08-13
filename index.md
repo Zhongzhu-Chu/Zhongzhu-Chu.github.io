@@ -1,4 +1,4 @@
-<img align="left" src="./帅柱柱.jpg" width = '135' height ='160'>
+<img align="left" src="./帅柱柱.jpg" width = '130' height ='155'>
 
 **Zhongzhu Chu (楚中柱)**  
 Ph.D. Student  
