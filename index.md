@@ -40,25 +40,28 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 
 ---
 #### WORKING PAPERS
-[1]. Chen, Y.,  Hu, J., and **Chu, Z * .** (2023/04). (Corresponding author).  
+[1]. Chen, Y.,  Hu, J., and **Chu, Z * .**  (Corresponding author).  
 How can public attention improve regional green innovation performance? From a spatial perspective.
 
-[2]. **Chu, Z.**, Chen, Z* * *. (2023/04).  
+[2]. **Chu, Z.**, Chen, Z* * *. 
 How can artificial intelligence technology achieve pollution and carbon reduction? Evidence from China.
 
-[3]. Chen, Z., **Chu, Z * .** (2023/01). (Corresponding author).  
+[3]. Chen, Z., **Chu, Z * .**  (Corresponding author).  
 The Education-Selective Effect of Local Government Attention on Talents: Evidence Based on Provincial Panel Data.
 
-[4]. **Chu, Z * .**, Yang, T. (2022/11).  
+[4]. **Chu, Z * .**, Yang, T.  
 Multi-subject XXX: How can the public, XXX and government combat air pollution?.
 
-[5]. Gu, W., **Chu, Z.**, and Li, X *. (2022/09). (The instructor is the first author).  
+[5]. Gu, W., **Chu, Z.**, and Li, X *. (The instructor is the first author).  
 The spillover effects of the natural and cultural environment on tourism demand in China.
 
-[6]. Hu, J., Irfan, M., **Chu, Z.**, and Hu, M *. (2023/04).  
+[6]. Hu, J., Irfan, M., **Chu, Z.**, and Hu, M *.   
 Has green finance promoted XXX development? Empirical evaluation from the XXX method.
 
-[7]. **Chu, Z.**, Chen, Z*. (Preparing).  
+[6]. Chen, P *., **Chu, Z.**, and Dagestani, A.   
+Can XXX energy shape a city's climate XXX?
+
+[8]. **Chu, Z.**, Chen, Z*. (Preparing).  
 The Impact of Government XXX on Industrial XXX Efficiency: Analyse Based on XXX Instruments.
 
 ---
