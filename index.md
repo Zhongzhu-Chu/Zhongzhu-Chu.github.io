@@ -58,7 +58,7 @@ The spillover effects of the natural and cultural environment on tourism demand 
 [6]. Hu, J., Irfan, M., **Chu, Z.**, and Hu, M *.   
 Has green finance promoted XXX development? Empirical evaluation from the XXX method.
 
-[6]. Chen, P *., **Chu, Z.**, and Dagestani, A.   
+[7]. Chen, P *., **Chu, Z.**, and Dagestani, A.   
 Can XXX energy shape a city's climate XXX?
 
 [8]. **Chu, Z.**, Chen, Z*. (Preparing).  
