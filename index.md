@@ -52,7 +52,7 @@ The Education-Selective Effect of Local Government Attention on Talents: Evidenc
 [4]. **Chu, Z * .**, Yang, T.  
 Multi-subject XXX: How can the public, XXX and government combat air pollution?.
 
-[5]. Tan, W., Zhang, Z., **Chu, Z * .**  (Corresponding author). 
+[5]. Tan, W., Zhang, Z., **Chu, Z * .**  (Corresponding author).
 Digital Government and Green Innovation.
 
 [6]. Gu, W., **Chu, Z.**, and Li, X *. (The instructor is the first author).  
