@@ -52,16 +52,25 @@ The Education-Selective Effect of Local Government Attention on Talents: Evidenc
 [4]. **Chu, Z * .**, Yang, T.  
 Multi-subject XXX: How can the public, XXX and government combat air pollution?.
 
-[5]. Gu, W., **Chu, Z.**, and Li, X *. (The instructor is the first author).  
+[5]. Tan, W., Zhang, Z., **Chu, Z * .**  (Corresponding author). 
+Digital Government and Green Innovation.
+
+[6]. Gu, W., **Chu, Z.**, and Li, X *. (The instructor is the first author).  
 The spillover effects of the natural and cultural environment on tourism demand in China.
 
-[6]. Hu, J., Irfan, M., **Chu, Z.**, and Hu, M *.   
+[7]. Hu, J., Irfan, M., **Chu, Z.**, and Hu, M *.   
 Has green finance promoted XXX development? Empirical evaluation from the XXX method.
 
-[7]. Chen, P *., **Chu, Z.**, and Dagestani, A.   
+[8]. Chen, P *., **Chu, Z.**, and Dagestani, A.   
 Can XXX energy shape a city's climate XXX?
 
-[8]. **Chu, Z.**, Chen, Z*. (Preparing).  
+[9]. Chen, P *., Wu, Y. , and **Chu, Z.**.   
+Towards Energy-Efficient Cities: How Does the XX Contribute?
+
+[10]. Chen, P *., **Chu, Z.**.
+Mere Facade? Is Greenwashing Behavior Lower in XX?
+
+[11]. **Chu, Z.**, Chen, Z*. (Preparing).  
 The Impact of Government XXX on Industrial XXX Efficiency: Analyse Based on XXX Instruments.
 
 ---
