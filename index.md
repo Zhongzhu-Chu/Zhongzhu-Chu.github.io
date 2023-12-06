@@ -6,7 +6,7 @@ School of International and Public Affairs
 Shanghai Jiao Tong University
 
 
-Email: <chuzhongzhu@126.com>; <zhongzhu_chu@sjtu.edu.cn>
+Email: <zhongzhu_chu@sjtu.edu.cn>; <chuzhongzhu@126.com>
 
 ---
 #### WHO AM I
@@ -36,7 +36,7 @@ GPA: 87.1/100
 ---
 #### SERVICES
 
-Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***, ***Structural Change and Economic Dynamics***, ***Journal of Cleaner Production***, ***Environmental Science and Pollution Research***, ***Environment, Development and Sustainability***, ***Applied Water Science***, ***Kybernetes***, ***Green and Low-Carbon Economy*** and ***The Sixth International Conference on Economic and Business Management***.
+Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***, ***Structural Change and Economic Dynamics***, ***Journal of Cleaner Production***, ***Humanities & Social Sciences Communications***, ***Environmental Science and Pollution Research***, ***Environment, Development and Sustainability***, ***Applied Water Science***, ***Kybernetes***, ***Green and Low-Carbon Economy*** and ***The Sixth International Conference on Economic and Business Management***.
 
 ---
 #### WORKING PAPERS
@@ -75,13 +75,17 @@ The Impact of Government XXX on Industrial XXX Efficiency: Analyse Based on XXX 
 
 ---
 #### PUBLICATIONS
-**Chu, Z.**, Chen, X*. (2023).  
-[Migration or not? Impact of individual and urban factors on migrant workers' willingness of household registration transfer.](https://www.emerald.com/insight/content/doi/10.1108/K-03-2023-0421/full/html#abstract)   
-[Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q3, ABS 1).  
+Chen, P*., **Chu, Z.**, and Zhao, M. (2023).  
+[The Road to corporate sustainability: The importance of artificial intelligence.](https://www.sciencedirect.com/science/article/pii/S0160791X23002452)  
+[Technology in Society](https://www.sciencedirect.com/journal/technology-in-society) (SSCI, JCR Q1).  
 
 Chen, P*., Dagestani,A A., Zhao R., and **Chu, Z.**. (2023).  
 [The relationship between dynamic monitoring network plans and eco-efficiency – New evidence from atmospheric quality monitoring policy in China.](https://www.sciencedirect.com/science/article/pii/S0301479723020856?dgcid=coauthor)  
 [Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management) (SSCI, JCR Q1, ABS 3, FMS B).  
+
+**Chu, Z.**, Chen, X*. (2023).  
+[Migration or not? Impact of individual and urban factors on migrant workers' willingness of household registration transfer.](https://www.emerald.com/insight/content/doi/10.1108/K-03-2023-0421/full/html#abstract)   
+[Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q3, ABS 1).  
 
 Yang, T*., **Chu, Z.**, and Wang, B. (2023).  
 [Feasibility on the integration of passenger and freight transportation in rural areas: A service mode and an optimization model.](https://www.sciencedirect.com/science/article/pii/S0038012123001775?dgcid=author)  
