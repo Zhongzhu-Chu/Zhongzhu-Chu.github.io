@@ -40,41 +40,43 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 
 ---
 #### WORKING PAPERS
-[1]. Chen, Y.,  Hu, J., and **Chu, Z * .**  (Corresponding author).  
-How can public attention improve regional green innovation performance? From a spatial perspective.
 
-[2]. **Chu, Z.**, Chen, Z* * *.   
+[1]. **Chu, Z.**, Chen, Z* * *.   
 How can artificial intelligence technology achieve pollution and carbon reduction? Evidence from China.
 
-[3]. Chen, Z., **Chu, Z * .**  (Corresponding author).  
+[2]. Chen, Z., **Chu, Z * .**  (Corresponding author).  
 The Education-Selective Effect of Local Government Attention on Talents: Evidence Based on Provincial Panel Data.
 
-[4]. **Chu, Z * .**, Yang, T.  
+[3]. **Chu, Z * .**, Yang, T.  
 Multi-subject XXX: How can the public, XXX and government combat air pollution?.
 
-[5]. Tan, W., Zhang, Z., **Chu, Z * .**  (Corresponding author).  
+[4]. Tan, W., Zhang, Z., **Chu, Z * .**  (Corresponding author).  
 Digital Government and Green Innovation.
 
-[6]. Gu, W., **Chu, Z.**, and Li, X *. (The instructor is the first author).  
+[5]. Gu, W., **Chu, Z.**, and Li, X *. (The instructor is the first author).  
 The spillover effects of the natural and cultural environment on tourism demand in China.
 
-[7]. Hu, J., Irfan, M., **Chu, Z.**, and Hu, M *.   
+[6]. Hu, J., Irfan, M., **Chu, Z.**, and Hu, M *.   
 Has green finance promoted XXX development? Empirical evaluation from the XXX method.
 
-[8]. Chen, P *., **Chu, Z.**, and Dagestani, A.   
+[7]. Chen, P *., **Chu, Z.**, and Dagestani, A.   
 Can XXX energy shape a city's climate XXX?
 
-[9]. Chen, P *., Wu, Y. , and **Chu, Z.**.   
+[8]. Chen, P *., Wu, Y. , and **Chu, Z.**.   
 Towards Energy-Efficient Cities: How Does the XX Contribute?
 
-[10]. Chen, P *., **Chu, Z.**.  
+[9]. Chen, P *., **Chu, Z.**.  
 Mere Facade? Is Greenwashing Behavior Lower in XX?
 
-[11]. **Chu, Z.**, Chen, Z*. (Preparing).  
+[10]. **Chu, Z.**, Chen, Z*. (Preparing).  
 The Impact of Government XXX on Industrial XXX Efficiency: Analyse Based on XXX Instruments.
 
 ---
 #### PUBLICATIONS
+Chen, Y.,  Hu, J., Chen, H., **Chu, Z * .**, and Hu, M.  (2024) (Corresponding author).  
+[Public attention, big data technology, and green innovation efficiency: Empirical analysis based on spatial metrology.](https://www.sciencedirect.com/science/article/pii/S0160791X23002452)  
+[Journal of Environmental Planning and Management](https://www.tandfonline.com/journals/cjep20) (SSCI, JCR Q2, FMS B).  
+
 Chen, P*., **Chu, Z.**, and Zhao, M. (2023).  
 [The Road to corporate sustainability: The importance of artificial intelligence.](https://www.sciencedirect.com/science/article/pii/S0160791X23002452)  
 [Technology in Society](https://www.sciencedirect.com/journal/technology-in-society) (SSCI, JCR Q1).  
