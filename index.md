@@ -65,16 +65,13 @@ Can XXX energy shape a city's climate XXX?
 [8]. Chen, P *., Wu, Y. , and **Chu, Z.**.   
 Towards Energy-Efficient Cities: How Does the XX Contribute?
 
-[9]. Chen, P *., **Chu, Z.**.  
-Mere Facade? Is Greenwashing Behavior Lower in XX?
-
-[10]. **Chu, Z.**, Chen, Z*. (Preparing).  
+[9]. **Chu, Z.**, Chen, Z*. (Preparing).  
 The Impact of Government XXX on Industrial XXX Efficiency: Analyse Based on XXX Instruments.
 
 ---
 #### PUBLICATIONS
 Chen, Y.,  Hu, J., Chen, H., **Chu, Z * .**, and Hu, M.  (2024) (Corresponding author).  
-[Public attention, big data technology, and green innovation efficiency: Empirical analysis based on spatial metrology.](https://www.sciencedirect.com/science/article/pii/S0160791X23002452)  
+[Public attention, big data technology, and green innovation efficiency: Empirical analysis based on spatial metrology.](https://www.tandfonline.com/doi/full/10.1080/09640568.2023.2298249)  
 [Journal of Environmental Planning and Management](https://www.tandfonline.com/journals/cjep20) (SSCI, JCR Q2, FMS B).  
 
 Chen, P*., **Chu, Z.**, and Zhao, M. (2023).  
