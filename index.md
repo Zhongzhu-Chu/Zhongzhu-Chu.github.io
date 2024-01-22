@@ -40,9 +40,8 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 
 ---
 #### WORKING PAPERS
-
-[1]. **Chu, Z.**, Chen, Z* * *.   
-How can artificial intelligence technology achieve pollution and carbon reduction? Evidence from China.
+[1]. **Chu, Z.**, Chen, Z*.   
+The Impact of Government XXX on Industrial XXX Efficiency: Analyse Based on XXX Instruments.
 
 [2]. Chen, Z., **Chu, Z * .**  (Corresponding author).  
 The Education-Selective Effect of Local Government Attention on Talents: Evidence Based on Provincial Panel Data.
@@ -64,9 +63,6 @@ Can XXX energy shape a city's climate XXX?
 
 [8]. Chen, P *., Wu, Y. , and **Chu, Z.**.   
 Towards Energy-Efficient Cities: How Does the XX Contribute?
-
-[9]. **Chu, Z.**, Chen, Z*. (Preparing).  
-The Impact of Government XXX on Industrial XXX Efficiency: Analyse Based on XXX Instruments.
 
 ---
 #### PUBLICATIONS
