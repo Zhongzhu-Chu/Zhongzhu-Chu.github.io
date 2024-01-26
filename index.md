@@ -66,6 +66,10 @@ Towards Energy-Efficient Cities: How Does the XX Contribute?
 
 ---
 #### PUBLICATIONS
+**Chu, Z.**, Chen, P., Zhang Z., and Chen, Z*. (2024).  
+[Other’s shoes also fit well: AI technologies contribute to China’s blue skies as well as carbon reduction.](https://www.sciencedirect.com/science/article/pii/S0301479724001579?dgcid=coauthor)  
+[Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management) (SSCI, JCR Q1, ABS 3, FMS B).  
+
 Chen, Y.,  Hu, J., Chen, H., **Chu, Z * .**, and Hu, M.  (2024) (Corresponding author).  
 [Public attention, big data technology, and green innovation efficiency: Empirical analysis based on spatial metrology.](https://www.tandfonline.com/doi/full/10.1080/09640568.2023.2298249)  
 [Journal of Environmental Planning and Management](https://www.tandfonline.com/journals/cjep20) (SSCI, JCR Q2, FMS B).  
