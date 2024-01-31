@@ -74,6 +74,10 @@ Chen, Y.,  Hu, J., Chen, H., **Chu, Z * .**, and Hu, M.  (2024) (Corresponding a
 [Public attention, big data technology, and green innovation efficiency: Empirical analysis based on spatial metrology.](https://www.tandfonline.com/doi/full/10.1080/09640568.2023.2298249)  
 [Journal of Environmental Planning and Management](https://www.tandfonline.com/journals/cjep20) (SSCI, JCR Q2, FMS B).  
 
+Chen, P*., **Chu, Z.**. (2024).  
+[Mere facade? Is greenwashing behaviour lower in low-carbon corporates?](https://onlinelibrary.wiley.com/doi/10.1002/bse.3701)  
+[Business Strategy and the Environment](https://onlinelibrary.wiley.com/journal/10990836) (SSCI, JCR Q1, ABS 3, FMS B).  
+
 Chen, P*., **Chu, Z.**, and Zhao, M. (2023).  
 [The Road to corporate sustainability: The importance of artificial intelligence.](https://www.sciencedirect.com/science/article/pii/S0160791X23002452)  
 [Technology in Society](https://www.sciencedirect.com/journal/technology-in-society) (SSCI, JCR Q1).  
