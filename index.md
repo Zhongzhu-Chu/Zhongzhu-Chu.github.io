@@ -52,16 +52,13 @@ Multi-subject XXX: How can the public, XXX and government combat air pollution?.
 [4]. Tan, W., Zhang, Z., **Chu, Z * .**  (Corresponding author).  
 Digital Government and Green Innovation.
 
-[5]. Gu, W., **Chu, Z.**, and Li, X *. (The instructor is the first author).  
-The spillover effects of the natural and cultural environment on tourism demand in China.
-
-[6]. Hu, J., Irfan, M., **Chu, Z.**, and Hu, M *.   
+[5]. Hu, J., Irfan, M., **Chu, Z.**, and Hu, M *.   
 Has green finance promoted XXX development? Empirical evaluation from the XXX method.
 
-[7]. Chen, P *., **Chu, Z.**, and Dagestani, A.   
+[6]. Chen, P *., **Chu, Z.**, and Dagestani, A.   
 Can XXX energy shape a city's climate XXX?
 
-[8]. Chen, P *., Wu, Y. , and **Chu, Z.**.   
+[7]. Chen, P *., Wu, Y. , and **Chu, Z.**.   
 Towards Energy-Efficient Cities: How Does the XX Contribute?
 
 ---
@@ -77,6 +74,10 @@ Chen, Y.,  Hu, J., Chen, H., **Chu, Z * .**, and Hu, M.  (2024) (Corresponding a
 **Chu, Z.**, Chen, X*. (2023).  
 [Migration or not? Impact of individual and urban factors on migrant workers' willingness of household registration transfer.](https://www.emerald.com/insight/content/doi/10.1108/K-03-2023-0421/full/html#abstract)   
 [Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q3, ABS 1).  
+
+Gu, W., **Chu, Z.**, and Li, X *. (2024). (The instructor is the first author).  
+[The spillover effects of the natural and cultural environment on tourism demand in China.](https://www.sciencedirect.com/science/article/pii/S0040162521004169)  
+[Asia Pacific Journal of Tourism Research](https://www.tandfonline.com/journals/rapt20) (SSCI, JCR Q2, FMS C).
 
 Wang, C., **Chu, Z.**, and Gu, W*. (2021). (The instructor is the first author).  
 [Assessing the role of public attention in China's wastewater treatment: A spatial perspective.](https://www.sciencedirect.com/science/article/pii/S0040162521004169)  
