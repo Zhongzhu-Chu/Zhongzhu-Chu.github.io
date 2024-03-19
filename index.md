@@ -76,7 +76,7 @@ Chen, Y.,  Hu, J., Chen, H., **Chu, Z * .**, and Hu, M.  (2024) (Corresponding a
 [Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q3, ABS 1).  
 
 Gu, W., **Chu, Z.**, and Li, X *. (2024). (The instructor is the first author).  
-[Exploring the Influence of Natural and Cultural Environments on Tourism Demand: A Spatial Analysis.](https://www.sciencedirect.com/science/article/pii/S0040162521004169)  
+[Exploring the Influence of Natural and Cultural Environments on Tourism Demand: A Spatial Analysis.](https://doi.org/10.1080/10941665.2024.2333499)  
 [Asia Pacific Journal of Tourism Research](https://www.tandfonline.com/journals/rapt20) (SSCI, JCR Q2, FMS C).
 
 Wang, C., **Chu, Z.**, and Gu, W*. (2021). (The instructor is the first author).  
