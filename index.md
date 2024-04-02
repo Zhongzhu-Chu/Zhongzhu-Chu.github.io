@@ -36,7 +36,7 @@ GPA: 87.1/100
 ---
 #### SERVICES
 
-Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***, ***Structural Change and Economic Dynamics***, ***Journal of Cleaner Production***, ***Humanities & Social Sciences Communications***, ***Environmental Science and Pollution Research***, ***Environment, Development and Sustainability***, ***Applied Water Science***, ***Kybernetes***, ***Green and Low-Carbon Economy*** and ***The Sixth International Conference on Economic and Business Management***.
+Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***, ***Structural Change and Economic Dynamics***, ***Economic Analysis and Policy***, ***Climate Policy***, ***Journal of Cleaner Production***, ***Humanities & Social Sciences Communications***, ***Environmental Science and Pollution Research***, ***Environment, Development and Sustainability***, ***Applied Water Science***, ***Kybernetes***, ***Green and Low-Carbon Economy*** and ***The Sixth International Conference on Economic and Business Management***.
 
 ---
 #### WORKING PAPERS
