@@ -50,7 +50,7 @@ The Education-Selective Effect of Local Government Attention on Talents: Evidenc
 Multi-subject XXX: How can the public, XXX and government combat air pollution?.
 
 [4]. Tan, W., Zhang, Z., **Chu, Z * .**  (Corresponding author).  
-Digital Government and Green Innovation.
+Digital XXX and XXX Innovation.
 
 [5]. Hu, J., Irfan, M., **Chu, Z.**, and Hu, M *.   
 Has green finance promoted XXX development? Empirical evaluation from the XXX method.
@@ -63,6 +63,10 @@ Towards Energy-Efficient Cities: How Does the XX Contribute?
 
 ---
 #### PUBLICATIONS
+**Chu, Z.**, Zhang, Z., Tan W*., and Chen, P. (2024).  
+[Revolutionizing energy practices: unleashing the power of artificial intelligence in corporate energy transition.](https://www.sciencedirect.com/science/article/pii/S0301479724001579?dgcid=coauthor)  
+[Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management) (SSCI, JCR Q1, ABS 3, FMS B).  
+
 **Chu, Z.**, Chen, P., Zhang Z., and Chen, Z*. (2024).  
 [Other’s shoes also fit well: AI technologies contribute to China’s blue skies as well as carbon reduction.](https://www.sciencedirect.com/science/article/pii/S0301479724001579?dgcid=coauthor)  
 [Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management) (SSCI, JCR Q1, ABS 3, FMS B).  
