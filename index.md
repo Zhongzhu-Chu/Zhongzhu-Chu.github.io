@@ -64,7 +64,7 @@ Towards Energy-Efficient Cities: How Does the XX Contribute?
 ---
 #### PUBLICATIONS
 **Chu, Z.**, Zhang, Z., Tan W*., and Chen, P. (2024).  
-[Revolutionizing energy practices: unleashing the power of artificial intelligence in corporate energy transition.](https://www.sciencedirect.com/science/article/pii/S0301479724001579?dgcid=coauthor)  
+[Revolutionizing energy practices: unleashing the power of artificial intelligence in corporate energy transition.](https://doi.org/10.1016/j.jenvman.2024.120806)  
 [Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management) (SSCI, JCR Q1, ABS 3, FMS B).  
 
 **Chu, Z.**, Chen, P., Zhang Z., and Chen, Z*. (2024).  
