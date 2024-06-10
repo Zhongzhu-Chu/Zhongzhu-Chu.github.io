@@ -49,16 +49,13 @@ The Education-Selective Effect of Local Government Attention on Talents: Evidenc
 [3]. **Chu, Z * .**, Yang, T.  
 Multi-subject XXX: How can the public, XXX and government combat air pollution?.
 
-[4]. Tan, W., Zhang, Z., **Chu, Z * .**  (Corresponding author).  
-Digital XXX and XXX Innovation.
-
-[5]. Hu, J., Irfan, M., **Chu, Z.**, and Hu, M *.   
+[4]. Hu, J., Irfan, M., **Chu, Z.**, and Hu, M *.   
 Has green finance promoted XXX development? Empirical evaluation from the XXX method.
 
-[6]. Chen, P *., **Chu, Z.**, and Dagestani, A.   
+[5]. Chen, P *., **Chu, Z.**, and Dagestani, A.   
 Can XXX energy shape a city's climate XXX?
 
-[7]. Chen, P *., Wu, Y. , and **Chu, Z.**.   
+[6]. Chen, P *., Wu, Y. , and **Chu, Z.**.   
 Towards Energy-Efficient Cities: How Does the XX Contribute?
 
 ---
@@ -72,7 +69,7 @@ Towards Energy-Efficient Cities: How Does the XX Contribute?
 [Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management) (SSCI, JCR Q1, ABS 3, FMS B).  
 
 [3]. Tan, W., Zhang, Z., **Chu, Z * .**, and Chen, P.  (2024) (Corresponding author).  
-[Unlocking Green Potential: The Digital Government-Driven Revolution in Corporate Green Innovation.](https://www.tandfonline.com/doi/full/10.1080/09640568.2023.2298249)  
+[Unlocking Green Potential: The Digital Government-Driven Revolution in Corporate Green Innovation.](https://www.sciencedirect.com/science/article/pii/S0313592624001498)  
 [Economic Analysis and Policy](https://www.sciencedirect.com/journal/economic-analysis-and-policy) (SSCI, JCR Q1).  
 
 [4]. Chen, Y.,  Hu, J., Chen, H., **Chu, Z * .**, and Hu, M.  (2024) (Corresponding author).  
