@@ -74,15 +74,15 @@ Towards Energy-Efficient Cities: How Does the XX Contribute?
 
 [4]. Chen, Y.,  Hu, J., Chen, H., **Chu, Z * .**, and Hu, M.  (2024) (Corresponding author).  
 [Public attention, big data technology, and green innovation efficiency: Empirical analysis based on spatial metrology.](https://www.tandfonline.com/doi/full/10.1080/09640568.2023.2298249)  
-[Journal of Environmental Planning and Management](https://www.tandfonline.com/journals/cjep20) (SSCI, JCR Q2, FMS B).  
+[Journal of Environmental Planning and Management](https://www.tandfonline.com/journals/cjep20) (SSCI, JCR Q1, FMS B).  
 
 [5]. **Chu, Z.**, Chen, X*. (2023).  
 [Migration or not? Impact of individual and urban factors on migrant workers' willingness of household registration transfer.](https://www.emerald.com/insight/content/doi/10.1108/K-03-2023-0421/full/html#abstract)   
-[Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q3, ABS 1).  
+[Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q2, ABS 1).  
 
 [6]. Gu, W., **Chu, Z.**, and Li, X *. (2024). (The instructor is the first author).  
 [Exploring the Influence of Natural and Cultural Environments on Tourism Demand: A Spatial Analysis.](https://doi.org/10.1080/10941665.2024.2333499)  
-[Asia Pacific Journal of Tourism Research](https://www.tandfonline.com/journals/rapt20) (SSCI, JCR Q2, FMS C).
+[Asia Pacific Journal of Tourism Research](https://www.tandfonline.com/journals/rapt20) (SSCI, JCR Q1, FMS C).
 
 [7]. Wang, C., **Chu, Z.**, and Gu, W*. (2021). (The instructor is the first author).  
 [Assessing the role of public attention in China's wastewater treatment: A spatial perspective.](https://www.sciencedirect.com/science/article/pii/S0040162521004169)  
