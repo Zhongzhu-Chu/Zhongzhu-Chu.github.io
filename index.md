@@ -58,7 +58,7 @@ Towards Energy-Efficient Cities: How Does the XX Contribute?
 ---
 #### PUBLICATIONS
 [1]. **Chu, Z.**, Yang, T., Zhang, Z*. (2024).  
-[Assessing the role of public, media, and government attention on air pollution governance in China.](https://doi.org/10.1016/j.jenvman.2024.120806)  
+[Assessing the role of public, media, and government attention on air pollution governance in China.](https://doi.org/10.1016/j.scs.2024.105681)  
 [Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society) (SCI, JCR Q1, CAS Journal Ranking Tier 1 Top).  
 
 [2]. **Chu, Z.**, Zhang, Z., Tan, W*., and Chen, P. (2024).  
