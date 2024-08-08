@@ -89,6 +89,10 @@ Gu, W., **Chu, Z.**, and Li, X *. (2024). (The instructor is the first author).
 [Exploring the Influence of Natural and Cultural Environments on Tourism Demand: A Spatial Analysis.](https://doi.org/10.1080/10941665.2024.2333499)  
 [Asia Pacific Journal of Tourism Research](https://www.tandfonline.com/journals/rapt20) (SSCI, JCR Q1, FMS C).
 
+Chen, P., **Chu, Z.**, Zhao, Y., Li, Y *.  (2024).  
+[Is urban innovation capacity shaping new models of economic development? Evidence from the circular economy.](http://doi.org/10.1002/sd.3134)  
+[Sustainable Development](https://onlinelibrary.wiley.com/journal/10991719) (SSCI, JCR Q1, CAS Journal Ranking Tier 1 Top).  
+
 Wang, C., **Chu, Z.**, and Gu, W*. (2021). (The instructor is the first author).  
 [Assessing the role of public attention in China's wastewater treatment: A spatial perspective.](https://www.sciencedirect.com/science/article/pii/S0040162521004169)  
 [Technological Forecasting and Social Change](https://www.sciencedirect.com/journal/technological-forecasting-and-social-change) (SSCI, JCR Q1, ABS 3, FMS B), 171, 120984.    
