@@ -58,16 +58,20 @@ Towards Energy-Efficient Cities: How Does the XX Contribute?
 ---
 #### PUBLICATIONS
 **Chu, Z.**, Yang, T., Zhang, Z*. (2024).  
+[Assessing the Impact of Climate Policy Stringency on Corporate Energy Innovation: Insights from China.](https://doi.org/10.1016/j.scs.2024.105681)  
+[Energy Economics](https://www.sciencedirect.com/journal/energy-economics) (SSCI, JCR Q1, ABS 3, FMS B, CAS Journal Ranking Tier 2 Top).
+
+**Chu, Z.**, Yang, T., Zhang, Z*. (2024).  
 [Assessing the role of public, media, and government attention on air pollution governance in China.](https://doi.org/10.1016/j.scs.2024.105681)  
 [Sustainable Cities and Society](https://www.sciencedirect.com/journal/sustainable-cities-and-society) (SCI, JCR Q1, CAS Journal Ranking Tier 1 Top).  
 
 **Chu, Z.**, Zhang, Z., Tan, W*., and Chen, P. (2024).  
 [Revolutionizing energy practices: unleashing the power of artificial intelligence in corporate energy transition.](https://doi.org/10.1016/j.jenvman.2024.120806)  
-[Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management) (SSCI, JCR Q1, ABS 3, FMS B, CAS Journal Ranking Tier 2 Top).  
+[Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management) (SCI, JCR Q1, ABS 3, FMS B, CAS Journal Ranking Tier 2 Top).  
 
 **Chu, Z.**, Chen, P., Zhang Z., and Chen, Z*. (2024).  
 [Other’s shoes also fit well: AI technologies contribute to China’s blue skies as well as carbon reduction.](https://www.sciencedirect.com/science/article/pii/S0301479724001579?dgcid=coauthor)  
-[Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management) (SSCI, JCR Q1, ABS 3, FMS B, CAS Journal Ranking Tier 2 Top).  
+[Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management) (SCI, JCR Q1, ABS 3, FMS B, CAS Journal Ranking Tier 2 Top).  
 
 Chen, P., Zhang, Y., **Chu, Z * .**.  (2024) (Corresponding author).  
 [Exploring the influence of financial development on climate physical risk: insights from China.](https://doi.org/10.1080/14693062.2024.2374319)  
