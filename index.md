@@ -58,7 +58,7 @@ Towards Energy-Efficient Cities: How Does the XX Contribute?
 ---
 #### PUBLICATIONS
 **Chu, Z.**, Zhang, Q., Tan, W*., and Chen, P. (2024).  
-[Assessing the Impact of Climate Policy Stringency on Corporate Energy Innovation: Insights from China.](https://doi.org/10.1016/j.scs.2024.105681)  
+[Assessing the Impact of Climate Policy Stringency on Corporate Energy Innovation: Insights from China.](https://doi.org/10.1016/j.eneco.2024.107959)  
 [Energy Economics](https://www.sciencedirect.com/journal/energy-economics) (SSCI, JCR Q1, ABS 3, FMS B, CAS Journal Ranking Tier 2 Top).
 
 **Chu, Z.**, Yang, T., Zhang, Z*. (2024).  
