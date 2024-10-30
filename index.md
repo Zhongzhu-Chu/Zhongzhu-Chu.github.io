@@ -103,7 +103,7 @@ Wang, C., **Chu, Z.**, and Gu, W*. (2021). (The instructor is the first author).
 
 Wang, C., **Chu, Z.**, and Gu, W*. (2021). (The instructor is the first author).  
 [Participate or not: Impact of information intervention on residents’ willingness of sorting municipal solid waste.](https://www.sciencedirect.com/science/article/pii/S0959652621027967)  
-[Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production) (SCI, JCR Q1, ABS 2, FMS C), 318, 128591.  
+[Journal of Cleaner Production](https://www.journals.elsevier.com/journal-of-cleaner-production) (SCI, JCR Q1, FMS C), 318, 128591.  
 
 Gu, W., **Chu, Z.**, and Wang, C*. (2020). (The instructor is the first author).  
 [How do different types of energy technological progress affect regional carbon intensity? A spatial panel approach.](https://link.springer.com/article/10.1007/s11356-020-10327-9)  
@@ -119,11 +119,11 @@ Chen, P*., **Chu, Z.**, and Zhao, M. (2023).
 
 Yang, T*., **Chu, Z.**, and Wang, B. (2023).  
 [Feasibility on the integration of passenger and freight transportation in rural areas: A service mode and an optimization model.](https://www.sciencedirect.com/science/article/pii/S0038012123001775?dgcid=author)  
-[Socio-Economic Planning Sciences](https://www.sciencedirect.com/journal/socio-economic-planning-sciences) (SSCI, JCR Q1, ABS 2).  
+[Socio-Economic Planning Sciences](https://www.sciencedirect.com/journal/socio-economic-planning-sciences) (SSCI, JCR Q1).  
 
 Chen, P*., Dagestani,A A., Zhao R., and **Chu, Z.**. (2023).  
 [The relationship between dynamic monitoring network plans and eco-efficiency – New evidence from atmospheric quality monitoring policy in China.](https://www.sciencedirect.com/science/article/pii/S0301479723020856?dgcid=coauthor)  
-[Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management) (SSCI, JCR Q1, ABS 3, FMS B).  
+[Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management) (SSCI, JCR Q1, FMS B).  
 
 Wu, Z., Xu, M*., and **Chu, Z.** (2023).  
 [Evolution, characteristics, and prospects of mountain flash flood disaster prevention and control policies in China.](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJutOehf2D0XouCH-lhM6pGz4Mq31LwbJBB4cIPUKKo_3gEcpU9zYjCK-rCtGBkg28a&uniplatform=NZKPT)  
