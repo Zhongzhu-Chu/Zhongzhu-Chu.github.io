@@ -143,6 +143,8 @@ Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/i
 ---
 #### HONORS & AWARDS
 
+National Scholarship  (2024.09)
+
 Outstanding graduates of Beijing ordinary colleges and Universities (2022.06)
 
 Outstanding Master's Thesis of USTB (2022.06)
