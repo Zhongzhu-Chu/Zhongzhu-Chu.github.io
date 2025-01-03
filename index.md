@@ -1,7 +1,7 @@
 <img align="left" src="./帅柱柱.jpg" width = '130' height ='155'>
 
 **Zhongzhu Chu (楚中柱)**  
-Ph.D. Candidate in Public Administration 
+Ph.D. Candidate in Public Administration  
 School of International and Public Affairs  
 Shanghai Jiao Tong University
 
