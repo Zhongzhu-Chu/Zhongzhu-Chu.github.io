@@ -1,7 +1,7 @@
 <img align="left" src="./帅柱柱.jpg" width = '130' height ='155'>
 
 **Zhongzhu Chu (楚中柱)**  
-Ph.D. Candidate  
+Ph.D. Candidate in Public Administration 
 School of International and Public Affairs  
 Shanghai Jiao Tong University
 
@@ -40,20 +40,17 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 
 ---
 #### WORKING PAPERS
-**Chu, Z.**, Chen, Z*.   
-The Impact of Government XXX on Industrial XXX Efficiency: Analyse Based on XXX Instruments.
+[1] The Impact of Government XXX on Industrial XXX Efficiency: Analyse Based on XXX Instruments.
 
-Chen, Z., **Chu, Z * .**  (Corresponding author).  
-The Education-Selective Effect of Local Government Attention on Talents: Evidence Based on Provincial Panel Data.
+[2] The Education-Selective Effect of Local Government Attention on Talents: Evidence Based on Provincial Panel Data.
 
-Hu, J., Irfan, M., **Chu, Z.**, and Hu, M *.   
-Has green finance promoted XXX development? Empirical evaluation from the XXX method.
+[3] Has green finance promoted XXX development? Empirical evaluation from the XXX method.
 
-Chen, P *., **Chu, Z.**, and Dagestani, A.   
-Can XXX energy shape a city's climate XXX?
+[4] Can XXX energy shape a city's climate XXX?
 
-Chen, P *., Wu, Y. , and **Chu, Z.**.   
-Towards Energy-Efficient Cities: How Does the XX Contribute?
+[5] Towards Energy-Efficient Cities: How Does the XX Contribute?
+
+[6] How can stock space become an engine for innovative development? Insights from Nanjing and Shanghai
 
 ---
 #### PUBLICATIONS
