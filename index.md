@@ -122,6 +122,10 @@ Chen, P*., Dagestani,A A., Zhao R., and **Chu, Z.**. (2023).
 [The relationship between dynamic monitoring network plans and eco-efficiency – New evidence from atmospheric quality monitoring policy in China.](https://www.sciencedirect.com/science/article/pii/S0301479723020856?dgcid=coauthor)  
 [Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management) (SSCI, JCR Q1, FMS B).  
 
+Chen, P*., Wang,Y., and **Chu, Z.**. (2025).  
+[Towards Energy-Efficient Cities: How Does the Sharing Economy Contribute?](https://www.sciencedirect.com/science/article/pii/S0360544225012642)  
+[Energy](https://www.sciencedirect.com/journal/energy) (SCI, JCR Q1, CAS Journal Ranking Tier 1 Top).  
+
 Wu, Z., Xu, M*., and **Chu, Z.** (2023).  
 [Evolution, characteristics, and prospects of mountain flash flood disaster prevention and control policies in China.](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJutOehf2D0XouCH-lhM6pGz4Mq31LwbJBB4cIPUKKo_3gEcpU9zYjCK-rCtGBkg28a&uniplatform=NZKPT)  
 [Resources Science](http://www.resci.cn/CN/1007-7588/home.shtml) (CSSCI, FMS T2).       
