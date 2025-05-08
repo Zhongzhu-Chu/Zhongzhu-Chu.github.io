@@ -36,7 +36,7 @@ GPA: 87.1/100
 ---
 #### SERVICES
 
-Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***, ***Structural Change and Economic Dynamics***, ***Economic Analysis and Policy***, ***Climate Policy***, ***Journal of Cleaner Production***, ***Humanities & Social Sciences Communications***, ***Environmental Science and Pollution Research***, ***Environment, Development and Sustainability***, ***Applied Water Science***, ***Kybernetes***, ***Green and Low-Carbon Economy*** and ***The Sixth International Conference on Economic and Business Management***.
+Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***, ***IEEE Transactions on Engineering Management***, ***Structural Change and Economic Dynamics***, ***Economic Analysis and Policy***, ***Climate Policy***, ***Journal of Environmental Management***, ***Business Strategy and the Environment***, ***International Review of Administrative Sciences***, ***Sustainable Development***, ***Journal of Cleaner Production***, ***Humanities & Social Sciences Communications***, ***Applied Economics***, ***Financial Innovation***, ***Journal of the Asia Pacific Economy***, ***Accounting & Finance***, ***Technology Analysis & Strategic Management***, ***China & World Economy***,  ***Applied Water Science***, ***Kybernetes***, ***Green and Low-Carbon Economy*** and ***The Sixth International Conference on Economic and Business Management***.
 
 ---
 #### WORKING PAPERS
@@ -73,6 +73,10 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 Chen, P., Zhang, Y., **Chu, Z * .**.  (2024) (Corresponding author).  
 [Exploring the influence of financial development on climate physical risk: insights from China.](https://doi.org/10.1080/14693062.2024.2374319)  
 [Climate Policy](https://www.tandfonline.com/journals/tcpo20) (SSCI, JCR Q1, FMS B, CAS Journal Ranking Tier 1 Top).  
+
+Chen, Q., Chen, P., **Chu, Z * .**.  (2025) (Corresponding author).  
+[Riddled with challenges: Are zero-waste cities transitioning to circular economies? Insights from Chinese cities.](https://doi.org/10.1016/j.jenvman.2025.125662)  
+[Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management) (SCI, JCR Q1, FMS B, CAS Journal Ranking Tier 2 Top).   
 
 Tan, W., Zhang, Z., **Chu, Z * .**, and Chen, P.  (2024) (Corresponding author).  
 [Unlocking Green Potential: The Digital Government-Driven Revolution in Corporate Green Innovation.](https://www.sciencedirect.com/science/article/pii/S0313592624001498)  
