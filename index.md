@@ -23,6 +23,10 @@ Before joining SJTU, I received my B.S. and M.S. degrees from University of Chin
 ---
 #### EDUCATION BACKGROUND
 
+*2022.09-Present* Ph.D. Candidate. in Public Administration  
+[Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), Shanghai, China.   
+Advisor: Prof. [Jiannan Wu](https://www.sipa.sjtu.edu.cn/facultydetail/qzjs/103)  
+
 *2019.09-2022.06* M.A. in Business Management  
 [University of Science and Technology Beijing (USTB)](https://en.ustb.edu.cn/), Beijing, China.   
 Advisor: Prof. [Wei Gu](https://sem.ustb.edu.cn/szll/szdw/xk/gsglxa/gwa/index.htm)  
