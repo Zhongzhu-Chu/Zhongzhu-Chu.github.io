@@ -18,7 +18,7 @@ Before joining SJTU, I received my B.S. and M.S. degrees from University of Chin
 ---
 #### RESEARCH INTERESTS
 
-**Quantitative Social Research** in **Urban Governance, Innovation Performance, Transportation Economics** and **Environmental Economics and Policy**
+**Quantitative Social Research** in **Urban Governance, Innovation Performance, Innovation District** and **Environmental Economics and Policy**
   
 ---
 #### EDUCATION BACKGROUND
