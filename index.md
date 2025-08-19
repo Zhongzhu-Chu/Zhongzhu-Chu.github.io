@@ -44,16 +44,13 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 
 ---
 #### WORKING PAPERS
-[1] The Impact of Government XXX on Industrial XXX Efficiency: Analyse Based on XXX Instruments.
+[1] The Role Performance of Government and Market Entities in the Placemaking of Innovation District: Insights from "Shanghai Silicon Alley" in China. Under Review in **Cities**
 
-[2] The Education-Selective Effect of Local Government Attention on Talents: Evidence Based on Provincial Panel Data.
+[2] Unlocking New Paths to XXX: The New Role and Challenges of Fintech. Under Review in **International Review of Economics and Finance**
 
-[3] Has green finance promoted XXX development? Empirical evaluation from the XXX method.
+[3] Responding to SDG13: Exploring the Role of Renewable Energy in Physical Climate Risk Governance. Under Review in **Energy**
 
-[4] Can XXX energy shape a city's climate XXX?
-
-[5] Towards Energy-Efficient Cities: How Does the XX Contribute?
-
+[4] Do XXX Shape Channels? The Role of Differentiated XXX in XXX. Under Review in **Production and Operations Management**
 
 ---
 #### PUBLICATIONS
@@ -95,7 +92,7 @@ Chen, Y.,  Hu, J., Chen, H., **Chu, Z * .**, and Hu, M.  (2024) (Corresponding a
 
 Wu, J*., **Chu, Z.**, Wang, Y., and Quan, Y. (2025). (The instructor is the first author).  
 [How Can Urban Stock Spaces Be Co-Produced into Innovation Districts? A Case Study of "Shanghai Silicon Alley"](https://kns.cnki.net/kcms2/article/abstract?v=VgZR0u5wRbzdhO08yjEtd7sCpEI6wps0Q91PXCYUdFqFuxhXr7uWyh_Ab2lJ1sidpWiYymseOeNAo1HIMwJ1Hd0VHlKadqqo6F0NYDvqLNcND-2dWoflEFVXl2h2RX8ah0hoEOrLh70lLDtW7_KNlxtzw2ZIwI-i15lLBwf1pE2_8rc3SjvIGQ==&uniplatform=NZKPT&language=CHS)  
-[Science of Science and Management of S.& T.](https://www.tandfonline.com/journals/rapt20) (CSSCI, FMS T2).
+[Science of Science and Management of S.& T.](https://www.ssstm.org/CN/1002-0241/home.shtml) (CSSCI, FMS T2).
 
 Gu, W., **Chu, Z.**, and Li, X *. (2024). (The instructor is the first author).  
 [Exploring the Influence of Natural and Cultural Environments on Tourism Demand: A Spatial Analysis.](https://doi.org/10.1080/10941665.2024.2333499)  
