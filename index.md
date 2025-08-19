@@ -54,7 +54,6 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 
 [5] Towards Energy-Efficient Cities: How Does the XX Contribute?
 
-[6] How can stock space become an engine for innovative development? Insights from Nanjing and Shanghai
 
 ---
 #### PUBLICATIONS
@@ -93,6 +92,10 @@ Chen, Y.,  Hu, J., Chen, H., **Chu, Z * .**, and Hu, M.  (2024) (Corresponding a
 **Chu, Z.**, Chen, X*. (2023).  
 [Migration or not? Impact of individual and urban factors on migrant workers' willingness of household registration transfer.](https://www.emerald.com/insight/content/doi/10.1108/K-03-2023-0421/full/html#abstract)   
 [Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q2, ABS 1).  
+
+Wu, J*., **Chu, Z.**, Wang, Y., and Quan, Y. (2025). (The instructor is the first author).  
+[How Can Urban Stock Spaces Be Co-Produced into Innovation Districts? A Case Study of "Shanghai Silicon Alley"](https://kns.cnki.net/kcms2/article/abstract?v=VgZR0u5wRbzdhO08yjEtd7sCpEI6wps0Q91PXCYUdFqFuxhXr7uWyh_Ab2lJ1sidpWiYymseOeNAo1HIMwJ1Hd0VHlKadqqo6F0NYDvqLNcND-2dWoflEFVXl2h2RX8ah0hoEOrLh70lLDtW7_KNlxtzw2ZIwI-i15lLBwf1pE2_8rc3SjvIGQ==&uniplatform=NZKPT&language=CHS)  
+[Science of Science and Management of S.& T.](https://www.tandfonline.com/journals/rapt20) (CSSCI, FMS T2).
 
 Gu, W., **Chu, Z.**, and Li, X *. (2024). (The instructor is the first author).  
 [Exploring the Influence of Natural and Cultural Environments on Tourism Demand: A Spatial Analysis.](https://doi.org/10.1080/10941665.2024.2333499)  
