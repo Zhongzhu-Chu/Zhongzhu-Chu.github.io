@@ -48,9 +48,11 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 
 [2] Unlocking New Paths to XXX: The New Role and Challenges of Fintech. Under Review in **International Review of Economics and Finance**
 
-[3] Responding to SDG13: Exploring the Role of Renewable Energy in Physical Climate Risk Governance. Under Review in **Energy**
+[3] Do XXX Shape Channels? The Role of Differentiated XXX in XXX. Under Review in **Production and Operations Management**
 
-[4] Do XXX Shape Channels? The Role of Differentiated XXX in XXX. Under Review in **Production and Operations Management**
+[4] Diffusion vs Lock-in: Insights from the XXX and XXX. Under Review in **Technovation**
+
+[5] Responding to SDG13: Exploring the Role of Renewable Energy in Physical Climate Risk Governance. Under Review in **Energy**
 
 ---
 #### PUBLICATIONS
