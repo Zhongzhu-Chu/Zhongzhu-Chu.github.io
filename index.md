@@ -44,15 +44,15 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 
 ---
 #### WORKING PAPERS
-[1] The Role Performance of Government and Market Entities in the Placemaking of Innovation District: Insights from "Shanghai Silicon Alley" in China. Under Review in **Cities**
+[1] The Role Performance of Government and Market Entities in the Placemaking of Innovation District: Insights from "Shanghai Silicon Alley" in China. 
 
-[2] Unlocking New Paths to XXX: The New Role and Challenges of Fintech. Under Review in **International Review of Economics and Finance**
+[2] Unlocking New Paths to XXX: The New Role and Challenges of Fintech. 
 
-[3] Do XXX Shape Channels? The Role of Differentiated XXX in XXX. Under Review in **Production and Operations Management**
+[3] Do XXX Shape Channels? The Role of Differentiated XXX in XXX. 
 
-[4] Diffusion vs Lock-in: Insights from the XXX and XXX. Under Review in **Technovation**
+[4] Diffusion vs Lock-in: Insights from the XXX and XXX. 
 
-[5] Responding to SDG13: Exploring the Role of Renewable Energy in Physical Climate Risk Governance. Under Review in **Energy**
+[5] Responding to SDG13: Exploring the Role of Renewable Energy in Physical Climate Risk Governance. 
 
 ---
 #### PUBLICATIONS
