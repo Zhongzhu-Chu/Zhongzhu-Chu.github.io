@@ -54,7 +54,7 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 
 ---
 #### PUBLICATIONS
-**Chu, Z.**, Tan, W*., Ren, B., and Xia, Z. (2026).  
+**Chu, Z.**, Tan, W., Ren, B*., and Xia, Z. (2026).  
 [Assessing the effect of climate policy uncertainty on corporate carbon cost leadership strategy: Evidence from China.](https://doi.org/10.1016/j.eneco.2025.109118)  
 [Energy Economics](https://www.sciencedirect.com/journal/energy-economics) (SSCI, JCR Q1, ABS 3, FMS B, CAS Journal Ranking Tier 2 Top).
 
