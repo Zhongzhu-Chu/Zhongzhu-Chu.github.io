@@ -11,7 +11,7 @@ Email: <zhongzhu_chu@sjtu.edu.cn>; <chuzhongzhu@126.com>
 ---
 #### WHO AM I
 
-I am Zhongzhu Chu, a Ph.D. Candidate in School of International and Public Affairs at Shanghai Jiao Tong University. My research interests mainly focus on environmental economics, environmental policy, innovation performance, and urban digital governance.
+I am Zhongzhu Chu, a Ph.D. Candidate in School of International and Public Affairs at Shanghai Jiao Tong University. My research interests mainly focus on environmental governance, climate risk, innovation performance, and urban digital governance.
 
 Before joining SJTU, I received my B.S. and M.S. degrees from University of Chinese Academy of Social Sciences (UCASS) and University of Science and Technology Beijing (USTB). I have also published and served as a reviewer for several internationally recognized journals.
 
@@ -40,7 +40,7 @@ GPA: 87.1/100
 ---
 #### SERVICES
 
-Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***, ***IEEE Transactions on Engineering Management***, ***Energy Economics***, ***Structural Change and Economic Dynamics***, ***Economic Analysis and Policy***, ***Climate Policy***, ***Journal of Environmental Management***, ***Business Strategy and the Environment***, ***International Review of Administrative Sciences***, ***Sustainable Development***, ***Corporate Social Responsibility and Environmental Management***, ***Journal of Cleaner Production***, ***Humanities & Social Sciences Communications***, ***Applied Economics***, ***Financial Innovation***, ***Journal of the Asia Pacific Economy***, ***Accounting & Finance***, ***Technology Analysis & Strategic Management***, ***China & World Economy***,  ***Applied Water Science***, ***Kybernetes***, ***Green and Low-Carbon Economy*** and ***The Sixth International Conference on Economic and Business Management***.
+Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***, ***IEEE Transactions on Engineering Management***, ***Energy Economics***, ***Structural Change and Economic Dynamics***, ***Economic Analysis and Policy***, ***Climate Policy***, ***Energy Policy***, ***Journal of Environmental Management***, ***Business Strategy and the Environment***, ***International Review of Administrative Sciences***, ***Sustainable Development***, ***Corporate Social Responsibility and Environmental Management***, ***Journal of Cleaner Production***, ***Humanities & Social Sciences Communications***, ***Applied Economics***, ***Financial Innovation***, ***Journal of the Asia Pacific Economy***, ***Accounting & Finance***, ***Technology Analysis & Strategic Management***, ***China & World Economy***,  ***Applied Water Science***, ***Kybernetes***, ***Green and Low-Carbon Economy*** and ***The Sixth International Conference on Economic and Business Management***.
 
 ---
 #### WORKING PAPERS
@@ -52,10 +52,16 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 
 [4] Diffusion vs Lock-in: Insights from the XXX and XXX. 
 
-[5] Responding to SDG13: Exploring the Role of Renewable Energy in Physical Climate Risk Governance. 
-
 ---
 #### PUBLICATIONS
+**Chu, Z.**, Tan, W*., Ren, B., and Xia, Z. (2026).  
+[Assessing the effect of climate policy uncertainty on corporate carbon cost leadership strategy: Evidence from China.](https://doi.org/10.1016/j.eneco.2025.109118)  
+[Energy Economics](https://www.sciencedirect.com/journal/energy-economics) (SSCI, JCR Q1, ABS 3, FMS B, CAS Journal Ranking Tier 2 Top).
+
+**Chu, Z.**, Wu, J., and Zhang, R. (2025).  
+[The Mechanism and Implementation Pathways of Sci-Tech Innovation Districts in Facilitating the Integrated Development of Education, S&T and Talent?.](https://kns.cnki.net/kcms2/article/abstract?v=N3LLzWa1SrX0clEA7ETwecjP8Iamv7bn3_vFq1TWmPaNGZS8GwmofHRu4nNrIR56JkHVXTAfSvMnXKEkZSJGfCl625OIcPfE4a4ltY17BmujEuhsgPgTjVM7S8t2lW08QozzeOU02EG73lSg6ZBHXjSdFGoSdk7rHDxOUDYfNTYltzBd7s3M3Q==&uniplatform=NZKPT&language=CHS)  
+[Journal of Xi'an Jiaotong University (Social Sciences)](https://navi.cnki.net/knavi/detail?p=Lhv5Ig3ZzzPgn-Ktmta9xtVYoY19y-l23_2ZJskScSdFaK3Rf_SYts9FwXf680xoVwgUQD-0GPbbzjdc_EEc3NneOXfXMydKMDptoJQhAlA=&uniplatform=NZKPT) (CSSCI).
+
 **Chu, Z.**, Zhang, Q., Tan, W*., and Chen, P. (2024).  
 [Assessing the Impact of Climate Policy Stringency on Corporate Energy Innovation: Insights from China.](https://doi.org/10.1016/j.eneco.2024.107959)  
 [Energy Economics](https://www.sciencedirect.com/journal/energy-economics) (SSCI, JCR Q1, ABS 3, FMS B, CAS Journal Ranking Tier 2 Top).
@@ -72,6 +78,10 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 [Other’s shoes also fit well: AI technologies contribute to China’s blue skies as well as carbon reduction.](https://www.sciencedirect.com/science/article/pii/S0301479724001579?dgcid=coauthor)  
 [Journal of Environmental Management](https://www.sciencedirect.com/journal/journal-of-environmental-management) (SCI, JCR Q1, FMS B, CAS Journal Ranking Tier 2 Top).  
 
+**Chu, Z.**, Chen, X*. (2023).  
+[Migration or not? Impact of individual and urban factors on migrant workers' willingness of household registration transfer.](https://www.emerald.com/insight/content/doi/10.1108/K-03-2023-0421/full/html#abstract)   
+[Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q2, ABS 1).  
+
 Chen, P., Zhang, Y., **Chu, Z * .**.  (2024) (Corresponding author).  
 [Exploring the influence of financial development on climate physical risk: insights from China.](https://doi.org/10.1080/14693062.2024.2374319)  
 [Climate Policy](https://www.tandfonline.com/journals/tcpo20) (SSCI, JCR Q1, FMS B, CAS Journal Ranking Tier 1 Top).  
@@ -87,10 +97,6 @@ Tan, W., Zhang, Z., **Chu, Z * .**, and Chen, P.  (2024) (Corresponding author).
 Chen, Y.,  Hu, J., Chen, H., **Chu, Z * .**, and Hu, M.  (2024) (Corresponding author).  
 [Public attention, big data technology, and green innovation efficiency: Empirical analysis based on spatial metrology.](https://www.tandfonline.com/doi/full/10.1080/09640568.2023.2298249)  
 [Journal of Environmental Planning and Management](https://www.tandfonline.com/journals/cjep20) (SSCI, JCR Q1, FMS B).  
-
-**Chu, Z.**, Chen, X*. (2023).  
-[Migration or not? Impact of individual and urban factors on migrant workers' willingness of household registration transfer.](https://www.emerald.com/insight/content/doi/10.1108/K-03-2023-0421/full/html#abstract)   
-[Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q2, ABS 1).  
 
 Wu, J*., **Chu, Z.**, Wang, Y., and Quan, Y. (2025). (The instructor is the first author).  
 [How Can Urban Stock Spaces Be Co-Produced into Innovation Districts? A Case Study of "Shanghai Silicon Alley"](https://kns.cnki.net/kcms2/article/abstract?v=VgZR0u5wRbzdhO08yjEtd7sCpEI6wps0Q91PXCYUdFqFuxhXr7uWyh_Ab2lJ1sidpWiYymseOeNAo1HIMwJ1Hd0VHlKadqqo6F0NYDvqLNcND-2dWoflEFVXl2h2RX8ah0hoEOrLh70lLDtW7_KNlxtzw2ZIwI-i15lLBwf1pE2_8rc3SjvIGQ==&uniplatform=NZKPT&language=CHS)  
@@ -153,6 +159,7 @@ Advisor: Associate Prof.[Chen Wang](https://sem.ustb.edu.cn/szll/szdw/szm/W/wc/i
 
 ---
 #### HONORS & AWARDS
+Wenzhi New Talent in SJTU (2025.11) 
 
 National Scholarship  (2024.09)
 
