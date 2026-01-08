@@ -56,7 +56,7 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 #### PUBLICATIONS
 **Chu, Z.**, Tan, W., Ren, B*., and Xia, Z. (2026).  
 [Assessing the effect of climate policy uncertainty on corporate carbon cost leadership strategy: Evidence from China.](https://doi.org/10.1016/j.eneco.2025.109118)  
-[Energy Economics](https://www.sciencedirect.com/journal/energy-economics) (SSCI, JCR Q1, ABS 3, FMS B, CAS Journal Ranking Tier 2 Top).
+[Energy Economics](https://www.sciencedirect.com/journal/energy-economics) (SSCI, JCR Q1, ABS 3, FMS B, CAS Journal Ranking Tier 1 Top).
 
 **Chu, Z.**, Wu, J., and Zhang, R. (2025).  
 [The Mechanism and Implementation Pathways of Sci-Tech Innovation Districts in Facilitating the Integrated Development of Education, S&T and Talent?.](https://kns.cnki.net/kcms2/article/abstract?v=N3LLzWa1SrX0clEA7ETwecjP8Iamv7bn3_vFq1TWmPaNGZS8GwmofHRu4nNrIR56JkHVXTAfSvMnXKEkZSJGfCl625OIcPfE4a4ltY17BmujEuhsgPgTjVM7S8t2lW08QozzeOU02EG73lSg6ZBHXjSdFGoSdk7rHDxOUDYfNTYltzBd7s3M3Q==&uniplatform=NZKPT&language=CHS)  
@@ -64,7 +64,7 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 
 **Chu, Z.**, Zhang, Q., Tan, W*., and Chen, P. (2024).  
 [Assessing the Impact of Climate Policy Stringency on Corporate Energy Innovation: Insights from China.](https://doi.org/10.1016/j.eneco.2024.107959)  
-[Energy Economics](https://www.sciencedirect.com/journal/energy-economics) (SSCI, JCR Q1, ABS 3, FMS B, CAS Journal Ranking Tier 2 Top).
+[Energy Economics](https://www.sciencedirect.com/journal/energy-economics) (SSCI, JCR Q1, ABS 3, FMS B, CAS Journal Ranking Tier 1 Top).
 
 **Chu, Z.**, Yang, T., Zhang, Z*. (2024).  
 [Assessing the role of public, media, and government attention on air pollution governance in China.](https://doi.org/10.1016/j.scs.2024.105681)  
