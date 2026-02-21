@@ -46,11 +46,9 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 #### WORKING PAPERS
 [1] The Role Performance of Government and Market Entities in the Placemaking of Innovation District: Insights from "Shanghai Silicon Alley" in China. 
 
-[2] Unlocking New Paths to XXX: The New Role and Challenges of Fintech. 
+[2] Do XXX Shape Channels? The Role of Differentiated XXX in XXX. 
 
-[3] Do XXX Shape Channels? The Role of Differentiated XXX in XXX. 
-
-[4] Diffusion vs Lock-in: Insights from the XXX and XXX. 
+[3] Diffusion vs Lock-in: Insights from the XXX and XXX. 
 
 ---
 #### PUBLICATIONS
@@ -81,6 +79,14 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 **Chu, Z.**, Chen, X*. (2023).  
 [Migration or not? Impact of individual and urban factors on migrant workers' willingness of household registration transfer.](https://www.emerald.com/insight/content/doi/10.1108/K-03-2023-0421/full/html#abstract)   
 [Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q2, ABS 1).  
+
+Chen, P., **Chu, Z * .**, and Zhao, Y.  (2026) (Corresponding author).  
+[International ETS and Physical Climate Risks.](https://www.sciencedirect.com/science/article/pii/S0313592624001498)  
+[Risk Analysis](https://onlinelibrary.wiley.com/journal/15396924) (SSCI, JCR Q1, FMS A, ABS 4).  
+
+Chen, Q., **Chu, Z * .**.  (2026) (Corresponding author).  
+[Unlocking New Paths to Mineral Resources’ Green Utilization: The New Role and Challenges of Fintech.](https://doi.org/10.1016/j.iref.2026.105030)  
+[International Review of Economics & Finance](https://www.sciencedirect.com/journal/international-review-of-economics-and-finance) (SSCI, JCR Q1, ABS 2, CAS Journal Ranking Tier 2 Top).  
 
 Chen, P., Zhang, Y., **Chu, Z * .**.  (2024) (Corresponding author).  
 [Exploring the influence of financial development on climate physical risk: insights from China.](https://doi.org/10.1080/14693062.2024.2374319)  
