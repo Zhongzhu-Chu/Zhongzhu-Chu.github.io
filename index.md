@@ -52,6 +52,10 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 
 ---
 #### PUBLICATIONS
+Chen, P., **Chu, Z * .**, and Zhao, Y.  (2026) (Corresponding author).  
+[International ETS and Physical Climate Risks.](https://onlinelibrary.wiley.com/doi/full/10.1111/risa.70212)  
+[Risk Analysis](https://onlinelibrary.wiley.com/journal/15396924) (SSCI, JCR Q1, FMS A, ABS 4).  
+
 **Chu, Z.**, Tan, W., Ren, B*., and Xia, Z. (2026).  
 [Assessing the effect of climate policy uncertainty on corporate carbon cost leadership strategy: Evidence from China.](https://doi.org/10.1016/j.eneco.2025.109118)  
 [Energy Economics](https://www.sciencedirect.com/journal/energy-economics) (SSCI, JCR Q1, ABS 3, FMS B, CAS Journal Ranking Tier 1 Top).
@@ -79,10 +83,6 @@ Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***
 **Chu, Z.**, Chen, X*. (2023).  
 [Migration or not? Impact of individual and urban factors on migrant workers' willingness of household registration transfer.](https://www.emerald.com/insight/content/doi/10.1108/K-03-2023-0421/full/html#abstract)   
 [Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q2, ABS 1).  
-
-Chen, P., **Chu, Z * .**, and Zhao, Y.  (2026) (Corresponding author).  
-[International ETS and Physical Climate Risks.](https://www.sciencedirect.com/science/article/pii/S0313592624001498)  
-[Risk Analysis](https://onlinelibrary.wiley.com/journal/15396924) (SSCI, JCR Q1, FMS A, ABS 4).  
 
 Chen, Q., **Chu, Z * .**.  (2026) (Corresponding author).  
 [Unlocking New Paths to Mineral Resources’ Green Utilization: The New Role and Challenges of Fintech.](https://doi.org/10.1016/j.iref.2026.105030)  
