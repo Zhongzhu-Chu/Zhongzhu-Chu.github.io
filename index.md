@@ -15,6 +15,10 @@ I am Zhongzhu Chu, a Ph.D. Candidate in School of International and Public Affai
 
 Before joining SJTU, I received my B.S. and M.S. degrees from University of Chinese Academy of Social Sciences (UCASS) and University of Science and Technology Beijing (USTB). I have also published and served as a reviewer for several internationally recognized journals.
 
+#### NEWS!!!!!
+
+I will join the School of Public Administration at Central South University as an associate professor in the second half of 2026.
+
 ---
 #### RESEARCH INTERESTS
 
@@ -41,14 +45,6 @@ GPA: 87.1/100
 #### SERVICES
 
 Reviewer for ***Technological Forecasting & Social Change***, ***Technovation***, ***IEEE Transactions on Engineering Management***, ***Energy Economics***, ***Structural Change and Economic Dynamics***, ***Economic Analysis and Policy***, ***Climate Policy***, ***Energy Policy***, ***Journal of Environmental Management***, ***Business Strategy and the Environment***, ***International Review of Administrative Sciences***, ***Sustainable Development***, ***Corporate Social Responsibility and Environmental Management***, ***Journal of Cleaner Production***, ***Humanities & Social Sciences Communications***, ***Applied Economics***, ***Financial Innovation***, ***Journal of the Asia Pacific Economy***, ***Accounting & Finance***, ***Technology Analysis & Strategic Management***, ***China & World Economy***,  ***Applied Water Science***, ***Kybernetes***, ***Green and Low-Carbon Economy*** and ***The Sixth International Conference on Economic and Business Management***.
-
----
-#### WORKING PAPERS
-[1] The Role Performance of Government and Market Entities in the Placemaking of Innovation District: Insights from "Shanghai Silicon Alley" in China. 
-
-[2] Do XXX Shape Channels? The Role of Differentiated XXX in XXX. 
-
-[3] Diffusion vs Lock-in: Insights from the XXX and XXX. 
 
 ---
 #### PUBLICATIONS
@@ -83,6 +79,10 @@ Chen, P., **Chu, Z * .**, and Zhao, Y.  (2026) (Corresponding author).
 **Chu, Z.**, Chen, X*. (2023).  
 [Migration or not? Impact of individual and urban factors on migrant workers' willingness of household registration transfer.](https://www.emerald.com/insight/content/doi/10.1108/K-03-2023-0421/full/html#abstract)   
 [Kybernetes](https://www.emeraldgrouppublishing.com/journal/k) (SCI, JCR Q2, ABS 1).  
+
+Che, S., Tao, M., **Chu, Z * .**.  (2026) (Corresponding author).  
+[Financial systems, inflation uncertainty, and the erosion of energy security.](https://doi.org/10.1016/j.enpol.2026.115404)  
+[Energy Policy](https://www.sciencedirect.com/journal/energy-policy) (SSCI, JCR Q1, ABS 2, CAS Journal Ranking Tier 1 Top).  
 
 Chen, Q., **Chu, Z * .**.  (2026) (Corresponding author).  
 [Unlocking New Paths to Mineral Resources’ Green Utilization: The New Role and Challenges of Fintech.](https://doi.org/10.1016/j.iref.2026.105030)  
