@@ -1,9 +1,9 @@
 <img align="left" src="./帅柱柱.jpg" width = '130' height ='155'>
 
 **Zhongzhu Chu (楚中柱)**  
-Ph.D. Candidate in Public Administration  
-School of International and Public Affairs  
-Shanghai Jiao Tong University
+Associate Professor  
+School of Public Administration  
+Central South University
 
 
 Email: <zhongzhu_chu@sjtu.edu.cn>; <chuzhongzhu@126.com>
@@ -11,13 +11,9 @@ Email: <zhongzhu_chu@sjtu.edu.cn>; <chuzhongzhu@126.com>
 ---
 #### WHO AM I
 
-I am Zhongzhu Chu, a Ph.D. Candidate in School of International and Public Affairs at Shanghai Jiao Tong University. My research interests mainly focus on environmental governance, climate risk, innovation performance, and urban digital governance.
+I am Zhongzhu Chu, a Associate Professor in School of Public Administration at Central South University. My research interests mainly focus on environmental and climate risk, innovation performance, and urban digital governance.
 
-Before joining SJTU, I received my B.S. and M.S. degrees from University of Chinese Academy of Social Sciences (UCASS) and University of Science and Technology Beijing (USTB). I have also published and served as a reviewer for several internationally recognized journals.
-
-#### NEWS!!!!!
-
-I will join the School of Public Administration at Central South University as an associate professor in the second half of 2026.
+Before formally joining the School of Public Administration at Central South University (CSU), I earned my bachelor's, master's, and doctoral degrees from the University of Chinese Academy of Social Sciences (UCASS), the University of Science and Technology Beijing (USTB), and Shanghai Jiao Tong University (SJTU), respectively. I have also published and served as a reviewer for several internationally recognized journals.
 
 ---
 #### RESEARCH INTERESTS
@@ -27,7 +23,7 @@ I will join the School of Public Administration at Central South University as a
 ---
 #### EDUCATION BACKGROUND
 
-*2022.09-Present* Ph.D. Candidate. in Public Administration  
+*2022.09-2026.09* Ph.D. in Public Administration  
 [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), Shanghai, China.   
 Advisor: Prof. [Jiannan Wu](https://www.sipa.sjtu.edu.cn/facultydetail/qzjs/103)  
 
