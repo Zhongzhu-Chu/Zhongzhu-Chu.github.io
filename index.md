@@ -11,7 +11,7 @@ Email: <zhongzhu_chu@sjtu.edu.cn>; <chuzhongzhu@126.com>
 ---
 #### WHO AM I
 
-I am Zhongzhu Chu, a Associate Professor in School of Public Administration at Central South University. My research interests mainly focus on environmental and climate risk, innovation performance, and urban digital governance.
+I am Zhongzhu Chu, an Associate Professor in School of Public Administration at Central South University. My research interests mainly focus on environmental and climate risk, innovation performance, and urban digital governance.
 
 Before formally joining the School of Public Administration at Central South University (CSU), I earned my bachelor's, master's, and doctoral degrees from the University of Chinese Academy of Social Sciences (UCASS), the University of Science and Technology Beijing (USTB), and Shanghai Jiao Tong University (SJTU), respectively. I have also published and served as a reviewer for several internationally recognized journals.
 
