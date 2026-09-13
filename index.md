@@ -18,7 +18,7 @@ Before formally joining the School of Public Administration at Central South Uni
 ---
 #### RESEARCH INTERESTS
 
-**Quantitative Social Research** in **Urban Governance, Innovation Performance, Innovation District** and **Environmental Economics and Policy**
+**Quantitative Social Research** in **Urban Digital Governance, Innovation Performance** and **Environmental and Climate Risk**
   
 ---
 #### EDUCATION BACKGROUND
